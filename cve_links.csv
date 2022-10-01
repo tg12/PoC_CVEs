@@ -755,7 +755,8 @@ https://github.com/TheJoyOfHacking/dirkjanm-CVE-2020-1472
 https://github.com/Anonymous-Family/Zero-day-scanning
 https://github.com/Anonymous-Family/CVE-2020-1472
 https://github.com/Nekoox/zerologon
-https://github.com/Rvn0xsy/ZeroLogon"
+https://github.com/Rvn0xsy/ZeroLogon
+https://github.com/guglia001/MassZeroLogon"
 CVE-2020-1473
 https://github.com/30579096/CVE-2020-1473
 CVE-2020-1474
@@ -1623,8 +1624,7 @@ https://github.com/awsassets/CVE-2020-7209
 CVE-2020-72381
 https://github.com/jdordonezn/CVE-2020-72381
 CVE-2020-7246
-"https://github.com/j0hn30n/CVE-2020-7246
-https://github.com/arafatansari/SecAssignment
+"https://github.com/arafatansari/SecAssignment
 https://github.com/pswalia2u/CVE-2020-7246"
 CVE-2020-7247
 "https://github.com/FiroSolutions/cve-2020-7247-exploit
@@ -2879,7 +2879,6 @@ https://github.com/purgedemo/CVE-2018-6574_2
 https://github.com/killtr0/POC-CVE-2018-6574
 https://github.com/theJuan1112/pentesterlab-cve-2018-6574
 https://github.com/MohamedTarekq/test-CVE-2018-6574-
-https://github.com/Yealid/CVE-2018-6574
 https://github.com/OLAOLAOLA789/CVE-2018-6574
 https://github.com/repos13579/labCVE-2018-6574
 https://github.com/yashanand/cve-2018-6574
@@ -2902,7 +2901,8 @@ https://github.com/jftierno/CVE-2018-6574-2
 https://github.com/tjcim/cve-2018-6574
 https://github.com/markisback/CVE-2018-6574
 https://github.com/hasharmujahid/CVE-2018-6574-go-get-RCE
-https://github.com/moorada/goGetRCE"
+https://github.com/moorada/goGetRCE
+https://github.com/Yealid/CVE-2018-6574"
 CVE-2018-6622
 https://github.com/kkamagui/napper-for-tpm
 CVE-2018-6643
@@ -5550,7 +5550,7 @@ https://github.com/jdmulloy/meltdown-aws-scanner"
 CVE-2017-5792
 https://github.com/scanfsec/HPE-iMC-7.3-RMI-Java-Deserialization
 CVE-2017-5941
-https://github.com/z0edff0x3d/CVE-2017-5941-NodeJS-RCE
+https://github.com/Frivolous-scholar/CVE-2017-5941-NodeJS-RCE
 CVE-2017-6008
 https://github.com/cbayet/Exploit-CVE-2017-6008
 CVE-2017-6074
@@ -6335,7 +6335,6 @@ https://github.com/villadora/CVE-2014-6271
 https://github.com/APSL/salt-shellshock
 https://github.com/teedeedubya/bash-fix-exploit
 https://github.com/internero/debian-lenny-bash_3.2.52-cve-2014-6271
-https://github.com/x2c3z4/shellshock_crawler
 https://github.com/u20024804/bash-3.2-fixed-CVE-2014-6271
 https://github.com/u20024804/bash-4.2-fixed-CVE-2014-6271
 https://github.com/u20024804/bash-4.3-fixed-CVE-2014-6271
@@ -6348,6 +6347,7 @@ https://github.com/renanvicente/puppet-shellshock
 https://github.com/indiandragon/Shellshock-Vulnerability-Scan
 https://github.com/ramnes/pyshellshock
 https://github.com/akiraaisha/shellshocker-python
+https://github.com/352926/shellshock_crawler
 https://github.com/kelleykong/cve-2014-6271-mengjia-kong
 https://github.com/huanlu/cve-2014-6271-huan-lu
 https://github.com/sunnyjiang/shellshocker-android
@@ -6725,8 +6725,7 @@ https://github.com/Puliczek/CVE-2021-21123-PoC-Google-Chrome
 CVE-2021-21148
 https://github.com/Grayhaxor/CVE-2021-21148
 CVE-2021-2119
-"https://github.com/Sauercloud/RWCTF21-VirtualBox-61-escape
-https://github.com/chatbottesisgmailh/Sauercloude
+"https://github.com/chatbottesisgmailh/Sauercloude
 https://github.com/shi10587s/Sauercloude"
 CVE-2021-21193
 https://github.com/mehrzad1994/CVE-2021-21193
@@ -6969,7 +6968,6 @@ https://github.com/iczc/Ethermint-CVE-2021-25837
 CVE-2021-26084
 "https://github.com/0xf4n9x/CVE-2021-26084
 https://github.com/Vulnmachines/Confluence_CVE-2021-26084
-https://github.com/z0edff0x3d/CVE-2021-26084-Confluence-OGNL
 https://github.com/dorkerdevil/CVE-2021-26084
 https://github.com/orangmuda/CVE-2021-26084
 https://github.com/Jun-5heng/CVE-2021-26084
@@ -7015,7 +7013,7 @@ https://github.com/0xAbdullah/CVE-2021-26855
 https://github.com/La3B0z/CVE-2021-26855-SSRF-Exchange
 https://github.com/mekhalleh/exchange_proxylogon
 https://github.com/Yt1g3r/CVE-2021-26855_SSRF
-https://github.com/charlottelatest/CVE-2021-26855
+https://github.com/hackerxj007/CVE-2021-26855
 https://github.com/dwisiswant0/proxylogscan
 https://github.com/mauricelambert/ExchangeWeaknessTest
 https://github.com/DCScoder/Exchange_IOC_Hunter
@@ -7227,9 +7225,6 @@ CVE-2021-3122
 https://github.com/acquiredsecurity/CVE-2021-3122-Details
 CVE-2021-3129
 "https://github.com/ambionics/laravel-exploits
-https://github.com/SNCKER/CVE-2021-3129
-https://github.com/SecPros-Team/laravel-CVE-2021-3129-EXP
-https://github.com/crisprss/Laravel_CVE-2021-3129_EXP
 https://github.com/nth347/CVE-2021-3129_exploit
 https://github.com/FunPhishing/Laravel-8.4.2-rce-CVE-2021-3129
 https://github.com/zhzyker/CVE-2021-3129
@@ -7245,14 +7240,9 @@ https://github.com/jet-pentest/CVE-2021-3131
 CVE-2021-3138
 https://github.com/Mesh3l911/CVE-2021-3138
 CVE-2021-3156
-"https://github.com/mr-r3b00t/CVE-2021-3156
-https://github.com/nexcess/sudo_cve-2021-3156
-https://github.com/reverse-ex/CVE-2021-3156
-https://github.com/unauth401/CVE-2021-3156
+"https://github.com/reverse-ex/CVE-2021-3156
 https://github.com/ymrsmns/CVE-2021-3156
-https://github.com/elbee-cyber/CVE-2021-3156-PATCHER
 https://github.com/kernelzeroday/CVE-2021-3156-Baron-Samedit
-https://github.com/yaunsky/cve-2021-3156
 https://github.com/baka9moe/CVE-2021-3156-Exp
 https://github.com/ph4ntonn/CVE-2021-3156
 https://github.com/binw2018/CVE-2021-3156-SCRIPT
@@ -7301,8 +7291,6 @@ https://github.com/trhacknon/CVE-2021-3156
 https://github.com/arvindshima/CVE-2021-3156
 https://github.com/FrancescoMarchiori/CVE-2021-3156
 https://github.com/baka9moe/CVE-2021-3156-TestReport"
-CVE-2021-3157
-https://github.com/CrackerCat/cve-2021-3157
 CVE-2021-3164
 https://github.com/rmccarth/cve-2021-3164
 CVE-2021-3165
@@ -7812,7 +7800,8 @@ https://github.com/mightysai1997/CVE-2021-41773.git1
 https://github.com/mightysai1997/CVE-2021-41773m
 https://github.com/mightysai1997/CVE-2021-41773S
 https://github.com/dileepdkumar/LayarKacaSiber-CVE-2021-41773
-https://github.com/sne4ker/apache-CVE-2021-41773-CVE-2021-42013"
+https://github.com/sne4ker/apache-CVE-2021-41773-CVE-2021-42013
+https://github.com/Juuso1337/CVE-2021-41773"
 CVE-2021-41946
 https://github.com/afaq1337/CVE-2021-41946
 CVE-2021-41962
@@ -9213,7 +9202,7 @@ CVE-2022-2588
 https://github.com/ASkyeye/2022-LPE-UAF
 https://github.com/pirenga/2022-LPE-UAF
 https://github.com/konoha279/2022-LPE-UAF
-https://github.com/sang-chu/CVE-2022-2588"
+https://github.com/ida-bro/CVE-2022-2588"
 CVE-2022-25943
 "https://github.com/HadiMed/KINGSOFT-WPS-Office-LPE
 https://github.com/webraybtl/CVE-2022-25943"
@@ -9733,7 +9722,8 @@ CVE-2022-32548
 https://github.com/Xu0Tex1/CVE-2022-32548-Mass-Rce
 https://github.com/MaX0dexpoit/CVE-2022-32548
 https://github.com/Xu0Tex1/CVE-2022-32548-RCE-POC
-https://github.com/d4rk0x00/CVE-2022-32548-batch"
+https://github.com/d4rk0x00/CVE-2022-32548-batch
+https://github.com/d4rk0x00/CVE-2022-32548-RCE"
 CVE-2022-32832
 "https://github.com/Muirey03/CVE-2022-32832
 https://github.com/AkbarTrilaksana/CVE-2022-32832"
@@ -9864,7 +9854,8 @@ https://github.com/AgainstTheLight/CVE-2022-37209
 CVE-2022-37210
 https://github.com/AgainstTheLight/CVE-2022-37210
 CVE-2022-37434
-https://github.com/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434
+"https://github.com/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434
+https://github.com/nidhi7598/external_zlib-1.2.7_CVE-2022-37434"
 CVE-2022-37703
 https://github.com/MaherAzzouzi/CVE-2022-37703
 CVE-2022-37706
@@ -9905,6 +9896,13 @@ CVE-2022-40490
 https://github.com/whitej3rry/CVE-2022-40490
 CVE-2022-40916
 https://github.com/whitej3rry/CVE-2022-40916
+CVE-2022-41082
+"https://github.com/revers0id/CVE-2022-41082-PoC
+https://github.com/TimWallbey/CVE-2022-41082-RCE
+https://github.com/TimWallbey/CVE-2022-41082-PoC
+https://github.com/R007er/CVE-2022-41082-POC"
+CVE-2022-41218
+https://github.com/V4bel/CVE-2022-41218
 CVE-2022-5555
 https://github.com/huihuo123/CVE-2022-5555
 CVE-2022-5561
