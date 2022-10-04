@@ -1,5 +1,3 @@
-# Readme
-
 ## PoC Links for CVE's
 
 Updated usually once a day
