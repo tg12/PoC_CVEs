@@ -1,4 +1,4 @@
-Last updated: 2022-10-03 01:01
+Last updated: 2022-10-04 01:01
 Twitter @James12396379
 
 
@@ -286,6 +286,10 @@ Twitter @James12396379
 | https://github.com/ShayNehmad/twoplustwo                                                                                              |
 | https://github.com/okanulkr/CurveBall-CVE-2020-0601-PoC                                                                               |
 +---------------------------------------------------------------------------------------------------------------------------------------+
+| CVE-2020-0606                                                                                                                         |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/5l1v3r1/CVE-2020-0606                                                                                              |
++---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2020-0609                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/ruppde/rdg_scanner_cve-2020-0609                                                                                   |
@@ -366,7 +370,6 @@ Twitter @James12396379
 | https://github.com/MasterSploit/CVE-2020-0787                                                                                         |
 | https://github.com/MasterSploit/CVE-2020-0787-BitsArbitraryFileMove-master                                                            |
 | https://github.com/yanghaoi/CVE-2020-0787                                                                                             |
-| https://github.com/Exploitspacks/CVE-2020-0787                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2020-0796                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -1187,7 +1190,6 @@ Twitter @James12396379
 | https://github.com/Udyz/Zerologon                                                                                                     |
 | https://github.com/itssmikefm/CVE-2020-1472                                                                                           |
 | https://github.com/NickSanzotta/zeroscan                                                                                              |
-| https://github.com/Exploitspacks/CVE-2020-1472                                                                                        |
 | https://github.com/TheJoyOfHacking/SecuraBV-CVE-2020-1472                                                                             |
 | https://github.com/TheJoyOfHacking/dirkjanm-CVE-2020-1472                                                                             |
 | https://github.com/Anonymous-Family/Zero-day-scanning                                                                                 |
@@ -1254,7 +1256,6 @@ Twitter @James12396379
 | https://github.com/B1anda0/CVE-2020-14883                                                                                             |
 | https://github.com/fan1029/CVE-2020-14883EXP                                                                                          |
 | https://github.com/Osyanina/westone-CVE-2020-14883-scanner                                                                            |
-| https://github.com/1n7erface/PocList                                                                                                  |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2020-1493                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -2158,6 +2159,7 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/0x240x23elu/CVE-2020-28948-and-CVE-2020-28949                                                                      |
 | https://github.com/nopdata/cve-2020-28948                                                                                             |
+| https://github.com/JinHao-L/PoC-for-CVE-2020-28948-CVE-2020-28949                                                                     |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2020-29007                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -2639,6 +2641,7 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2020-7246                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/j0hn30n/CVE-2020-7246                                                                                              |
 | https://github.com/arafatansari/SecAssignment                                                                                         |
 | https://github.com/pswalia2u/CVE-2020-7246                                                                                            |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -5602,7 +5605,6 @@ Twitter @James12396379
 | https://github.com/lisinan988/CVE-2019-0708-scan                                                                                      |
 | https://github.com/5l1v3r1/CVE-2019-0708-DOS                                                                                          |
 | https://github.com/offensity/CVE-2019-0708                                                                                            |
-| https://github.com/Exploitspacks/CVE-2019-0708                                                                                        |
 | https://github.com/CPT-Jack-A-Castle/Haruster-CVE-2019-0708-Exploit                                                                   |
 | https://github.com/Ravaan21/Bluekeep-Hunter                                                                                           |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -8634,10 +8636,6 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/listenquiet/cve-2017-2824-reverse-shell                                                                            |
 +---------------------------------------------------------------------------------------------------------------------------------------+
-| CVE-2017-2998                                                                                                                         |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/Exploitspacks/MS17-010-2017-2997-CVE-2017-2998-CVE-2017-2999-CVE-2017-3000-CVE-2017-3001-CVE-2017-3002-CVE-2017-3  |
-+---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-3000                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/dangokyo/CVE-2017-3000                                                                                             |
@@ -9271,6 +9269,7 @@ Twitter @James12396379
 | https://github.com/jongmartinez/-CVE-2017-9805-                                                                                       |
 | https://github.com/z3bd/CVE-2017-9805                                                                                                 |
 | https://github.com/0xd3vil/CVE-2017-9805-Exploit                                                                                      |
+| https://github.com/Shakun8/CVE-2017-9805                                                                                              |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-9822                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -10739,10 +10738,6 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/somatrasss/weblogic2021                                                                                            |
 +---------------------------------------------------------------------------------------------------------------------------------------+
-| CVE-2021-20028                                                                                                                        |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/Exploitspacks/CVE-2021-20028                                                                                       |
-+---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-20038                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/jbaines-r7/badblood                                                                                                |
@@ -11146,7 +11141,6 @@ Twitter @James12396379
 | https://github.com/lp008/CVE-2021-25646                                                                                               |
 | https://github.com/Ormicron/CVE-2021-25646-GUI                                                                                        |
 | https://github.com/Vulnmachines/Apache-Druid-CVE-2021-25646                                                                           |
-| https://github.com/1n7erface/PocList                                                                                                  |
 | https://github.com/givemefivw/CVE-2021-25646                                                                                          |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-25679                                                                                                                        |
@@ -11902,7 +11896,6 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-34527                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/Exploitspacks/CVE-2021-34527-CVE-2021-1675                                                                         |
 | https://github.com/cyb3rpeace/CVE-2021-34527                                                                                          |
 | https://github.com/m8sec/CVE-2021-34527                                                                                               |
 | https://github.com/hackerhouse-opensource/cve-2021-34527                                                                              |
@@ -11926,6 +11919,7 @@ Twitter @James12396379
 | https://github.com/Abdennour-py/CVE-2021-3493                                                                                         |
 | https://github.com/AmIAHuman/OverlayFS-CVE-2021-3493                                                                                  |
 | https://github.com/Ishan3011/CVE-2021-3493                                                                                            |
+| https://github.com/Senz4wa/CVE-2021-3493                                                                                              |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-35042                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -12286,6 +12280,7 @@ Twitter @James12396379
 | https://github.com/Naughty-SEC/pkexec-shell-executor                                                                                  |
 | https://github.com/1337Rin/CVE-2021-4034                                                                                              |
 | https://github.com/flux10n/CVE-2021-4034                                                                                              |
+| https://github.com/Senz4wa/CVE-2021-4034                                                                                              |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-40345                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -12768,6 +12763,7 @@ Twitter @James12396379
 | https://github.com/logpresso/CVE-2021-44228-Scanner                                                                                   |
 | https://github.com/vorburger/Log4j_CVE-2021-44228                                                                                     |
 | https://github.com/b-abderrahmane/CVE-2021-44228-playground                                                                           |
+| https://github.com/js-on/jndiRep                                                                                                      |
 | https://github.com/Sh0ckFR/log4j-CVE-2021-44228-Public-IoCs                                                                           |
 | https://github.com/datadavev/test-44228                                                                                               |
 | https://github.com/LemonCraftRu/JndiRemover                                                                                           |
@@ -12829,6 +12825,7 @@ Twitter @James12396379
 | https://github.com/HynekPetrak/log4shell-finder                                                                                       |
 | https://github.com/CERTCC/CVE-2021-44228_scanner                                                                                      |
 | https://github.com/dbzoo/log4j_scanner                                                                                                |
+| https://github.com/jeremyrsellars/CVE-2021-44228_scanner                                                                              |
 | https://github.com/JustinDPerkins/C1-WS-LOG4SHELL                                                                                     |
 | https://github.com/bhprin/log4j-vul                                                                                                   |
 | https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228                                                           |
@@ -12848,6 +12845,7 @@ Twitter @James12396379
 | https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent                                                             |
 | https://github.com/michaelsanford/Log4Shell-Honeypot                                                                                  |
 | https://github.com/thomaspatzke/Log4Pot                                                                                               |
+| https://github.com/ubitech/cve-2021-44228-rce-poc                                                                                     |
 | https://github.com/rv4l3r3/log4v-vuln-check                                                                                           |
 | https://github.com/dpomnean/log4j_scanner_wrapper                                                                                     |
 | https://github.com/roxas-tan/CVE-2021-44228                                                                                           |
@@ -12981,11 +12979,9 @@ Twitter @James12396379
 | https://github.com/hotpotcookie/log4shell-white-box                                                                                   |
 | https://github.com/s-retlaw/l4srs                                                                                                     |
 | https://github.com/Ananya-0306/Log-4j-scanner                                                                                         |
-| https://github.com/micha3lcve/CVE-2021-44228-Mass-RCE                                                                                 |
 | https://github.com/paulvkitor/log4shellwithlog4j2_13_3                                                                                |
 | https://github.com/MiguelM001/vulescanjndilookup                                                                                      |
 | https://github.com/Jun-5heng/CVE-2021-44228                                                                                           |
-| https://github.com/micha3lcve/LOG4J-mass-rce-CVE-2021-44228                                                                           |
 | https://github.com/honypot/CVE-2021-44228                                                                                             |
 | https://github.com/honypot/CVE-2021-44228-vuln-app                                                                                    |
 | https://github.com/manishkanyal/log4j-scanner                                                                                         |
@@ -12997,7 +12993,6 @@ Twitter @James12396379
 | https://github.com/jaehnri/CVE-2021-44228                                                                                             |
 | https://github.com/ra890927/Log4Shell-CVE-2121-44228-Demo                                                                             |
 | https://github.com/bughuntar/log4j-scan                                                                                               |
-| https://github.com/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j                                                              |
 | https://github.com/vidrez/Ethical-Hacking-Report-Log4j                                                                                |
 | https://github.com/vino-theva/CVE-2021-44228                                                                                          |
 | https://github.com/nemesi-ita/autoL4s                                                                                                 |
@@ -13903,7 +13898,7 @@ Twitter @James12396379
 | https://github.com/dbgee/CVE-2022-22947                                                                                               |
 | https://github.com/nu0l/cve-2022-22947                                                                                                |
 | https://github.com/nanaao/CVE-2022-22947-POC                                                                                          |
-| https://github.com/Xd-tl/CVE-2022-22947-Rce_POC                                                                                       |
+| https://github.com/hunzi0/CVE-2022-22947-Rce_POC                                                                                      |
 | https://github.com/march0s1as/CVE-2022-22947                                                                                          |
 | https://github.com/22ke/CVE-2022-22947                                                                                                |
 | https://github.com/j-jasson/CVE-2022-22947-Spring-Cloud-Gateway-SpelRCE                                                               |
@@ -14217,7 +14212,6 @@ Twitter @James12396379
 | https://github.com/NHPT/CVE-2022-24086-RCE                                                                                            |
 | https://github.com/oK0mo/CVE-2022-24086-RCE-PoC                                                                                       |
 | https://github.com/seymanurmutlu/CVE-2022-24086-CVE-2022-24087                                                                        |
-| https://github.com/jturner786/magento-CVE-2022-24086                                                                                  |
 | https://github.com/akr3ch/CVE-2022-24086                                                                                              |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-24087                                                                                                                        |
@@ -14631,7 +14625,6 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-26809                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/CberryAIRDROP/CVE-2022-26809-RCE                                                                                   |
 | https://github.com/sherlocksecurity/Microsoft-CVE-2022-26809-The-Little-Boy                                                           |
 | https://github.com/websecnl/CVE-2022-26809                                                                                            |
 | https://github.com/auduongxuan/CVE-2022-26809                                                                                         |
@@ -14640,11 +14633,9 @@ Twitter @James12396379
 | https://github.com/jones199023/CVE-2022-26809                                                                                         |
 | https://github.com/oppongjohn/CVE-2022-26809-RCE                                                                                      |
 | https://github.com/roger109/CVE-2022-26809-RCE-POC                                                                                    |
+| https://github.com/ZyxelTeam/CVE-2022-26809-RCE                                                                                       |
 | https://github.com/yuanLink/CVE-2022-26809                                                                                            |
-| https://github.com/crypt0r00t/CVE-2022-26809                                                                                          |
-| https://github.com/Calvitz/CVE-2022-26809                                                                                             |
 | https://github.com/s1ckb017/PoC-CVE-2022-26809                                                                                        |
-| https://github.com/cybersecurityresearcher/CVE-2022-26809-RCE-POC                                                                     |
 | https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp                                                           |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-26923                                                                                                                        |
@@ -15569,6 +15560,10 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/stealthcopter/CVE-2022-39841                                                                                       |
 +---------------------------------------------------------------------------------------------------------------------------------------+
+| CVE-2022-39959                                                                                                                        |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/usmarine2141/CVE-2022-39959                                                                                        |
++---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-40126                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/LovelyWei/CVE-2022-40126                                                                                           |
@@ -15596,15 +15591,12 @@ Twitter @James12396379
 | CVE-2022-41040                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/numanturle/CVE-2022-41040                                                                                          |
+| https://github.com/CentarisCyber/CVE-2022-41040_Mitigation                                                                            |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-41082                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/Diverto/nse-exchange                                                                                               |
-| https://github.com/krc0m/CVE-2022-41082                                                                                               |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-| CVE-2022-41208                                                                                                                        |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/L34ked/CVE-2022-41208                                                                                              |
+| https://github.com/b3w7/CVE-2022-41082-Scanner                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-41218                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
