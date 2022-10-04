@@ -2,9 +2,9 @@
 
 ## PoC Links for CVE's
 
-## Updated usually once a day
+Updated usually once a day
 
-## Contact me if you need REST/JSON access or other formats
+Contact me if you need REST/JSON access or other formats
 
 <!-- CONTACT -->
 ## Contact
