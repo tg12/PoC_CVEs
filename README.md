@@ -1,5 +1,7 @@
 ## PoC Links for CVE's
 
+## Strictly for educational purposes.
+
 Updated usually once a day
 
 Contact me if you need REST/JSON access or other formats
