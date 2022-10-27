@@ -1,4 +1,4 @@
-Last updated: 2022-10-26 11:21
+Last updated: 2022-10-27 01:01
 Bitcoin: 3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54
 
 
@@ -12474,6 +12474,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/itsecurityco/CVE-2021-41773                                                                                        |
 | https://github.com/creadpag/CVE-2021-41773-POC                                                                                        |
 | https://github.com/ranggaggngntt/CVE-2021-41773                                                                                       |
+| https://github.com/LudovicPatho/CVE-2021-41773                                                                                        |
 | https://github.com/walnutsecurity/cve-2021-41773                                                                                      |
 | https://github.com/norrig/CVE-2021-41773-exploiter                                                                                    |
 | https://github.com/m96dg/CVE-2021-41773-exercise                                                                                      |
@@ -12895,7 +12896,6 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/andalik/log4j-filescan                                                                                             |
 | https://github.com/gyaansastra/CVE-2021-44228                                                                                         |
 | https://github.com/kal1gh0st/MyLog4Shell                                                                                              |
-| https://github.com/kannthu/CVE-2021-44228-Apache-Log4j-Rce                                                                            |
 | https://github.com/Kr0ff/CVE-2021-44228                                                                                               |
 | https://github.com/suuhm/log4shell4shell                                                                                              |
 | https://github.com/AnYi-Sec/Log4j-CVE-2021-44228-EXP                                                                                  |
@@ -15574,6 +15574,10 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/afaq1337/CVE-2022-36200                                                                                            |
 +---------------------------------------------------------------------------------------------------------------------------------------+
+| CVE-2022-36231                                                                                                                        |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/affix/CVE-2022-36231                                                                                               |
++---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-36271                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/SaumyajeetDas/POC-of-CVE-2022-36271                                                                                |
@@ -17177,7 +17181,6 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/Ki11i0n4ir3/Sambaster                                                                                              |
 | https://github.com/cherrera0001/CVE-2007-2447                                                                                         |
 | https://github.com/Alien0ne/CVE-2007-2447                                                                                             |
-| https://github.com/k4u5h41/usermap_script_CVE-2007-2447                                                                               |
 | https://github.com/3t4n/samba-3.0.24-CVE-2007-2447-vunerable-                                                                         |
 | https://github.com/xbufu/CVE-2007-2447                                                                                                |
 | https://github.com/SamHackingArticles/CVE-2007-2447                                                                                   |
