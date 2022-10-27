@@ -1,4 +1,4 @@
-Last updated: 2022-10-27 01:09
+Last updated: 2022-10-27 19:37
 Bitcoin: 3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54
 
 
@@ -12035,6 +12035,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | CVE-2021-36260                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/rabbitsafe/CVE-2021-36260                                                                                          |
+| https://github.com/tuntin9x/CheckHKRCE                                                                                                |
 | https://github.com/Cuerz/CVE-2021-36260                                                                                               |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-36460                                                                                                                        |
@@ -12712,7 +12713,6 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-43798                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/ScorpionsMAX/CVE-2021-43798-Grafana-POC                                                                            |
 | https://github.com/asaotomo/CVE-2021-43798-Grafana-Exp                                                                                |
 | https://github.com/j-jasson/CVE-2021-43798-grafana_fileread                                                                           |
 | https://github.com/LongWayHomie/CVE-2021-43798                                                                                        |
@@ -15806,6 +15806,8 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/jsongmax/Fortinet-CVE-2022-40684                                                                                   |
 | https://github.com/und3sc0n0c1d0/CVE-2022-40684                                                                                       |
 | https://github.com/qingsiweisan/CVE-2022-40684                                                                                        |
+| https://github.com/TaroballzChen/CVE-2022-40684-metasploit-scanner                                                                    |
+| https://github.com/gustavorobertux/gotigate                                                                                           |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-40916                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
