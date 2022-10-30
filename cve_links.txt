@@ -1,4 +1,4 @@
-Last updated: 2022-10-29 01:09
+Last updated: 2022-10-30 01:01
 Bitcoin: 3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54
 
 
@@ -13987,6 +13987,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/LY613313/CVE-2022-22947                                                                                            |
 | https://github.com/SiJiDo/CVE-2022-22947                                                                                              |
 | https://github.com/trhacknon/CVE-2022-22947                                                                                           |
+| https://github.com/savior-only/CVE-2022-22947                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-22948                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -16344,6 +16345,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/eSentire/cve-2015-7547-public                                                                                      |
 | https://github.com/bluebluelan/CVE-2015-7547-proj-master                                                                              |
 | https://github.com/miracle03/CVE-2015-7547-master                                                                                     |
+| https://github.com/Stick-U235/CVE-2015-7547-Research                                                                                  |
 | https://github.com/Amilaperera12/Glibc-Vulnerability-Exploit-CVE-2015-7547                                                            |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2015-7755                                                                                                                         |
