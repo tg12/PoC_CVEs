@@ -1,4 +1,4 @@
-Last updated: 2022-11-07 01:09
+Last updated: 2022-11-08 01:01
 Bitcoin: 3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54
 
 
@@ -4140,6 +4140,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | CVE-2018-20062                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/NS-Sp4ce/thinkphp5.XRce                                                                                            |
+| https://github.com/yilin1203/CVE-2018-20062                                                                                           |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2018-20148                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -7735,7 +7736,6 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/SUNNYSAINI01001/46635.py_CVE-2019-9053                                                                             |
 | https://github.com/k4u5h41/CVE-2019-9053                                                                                              |
-| https://github.com/padsalatushal/CVE-2019-9053                                                                                        |
 | https://github.com/maraspiras/46635.py                                                                                                |
 | https://github.com/e-renna/CVE-2019-9053                                                                                              |
 | https://github.com/zmiddle/Simple_CMS_SQLi                                                                                            |
@@ -15580,6 +15580,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/attilaszia/cve-2022-3602                                                                                           |
 | https://github.com/alicangnll/SpookySSL-Scanner                                                                                       |
 | https://github.com/rbowes-r7/cve-2022-3602-and-cve-2022-3786-openssl-poc                                                              |
+| https://github.com/cybersecurityworks553/CVE-2022-3602-and-CVE-2022-3786                                                              |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-36067                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -15947,9 +15948,10 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/west-wind/CVE-2022-42889                                                                                           |
 | https://github.com/Vulnmachines/text4shell-CVE-2022-42889                                                                             |
 | https://github.com/Hack4rLIFE/CVE-2022-42889                                                                                          |
-| https://github.com/cryxnet/CVE-2022-42889-PoC                                                                                         |
+| https://github.com/cryxnet/CVE-2022-42889-RCE                                                                                         |
 | https://github.com/sunnyvale-it/CVE-2022-42889-PoC                                                                                    |
 | https://github.com/QAInsights/cve-2022-42889-jmeter                                                                                   |
+| https://github.com/adarshpv9746/Text4shell--Automated-exploit---CVE-2022-42889                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-42899                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
