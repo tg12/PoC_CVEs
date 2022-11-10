@@ -1,4 +1,4 @@
-Last updated: 2022-11-10 15:57
+Last updated: 2022-11-10 23:16
 Bitcoin: 3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54
 
 
@@ -8006,6 +8006,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/sigbitsadmin/diff                                                                                                  |
 | https://github.com/RavSS/Bluetooth-Crash-CVE-2017-0785                                                                                |
 | https://github.com/sh4rknado/BlueBorn                                                                                                 |
+| https://github.com/Joanmei/CVE-2017-0785                                                                                              |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-0806                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -10715,7 +10716,6 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/TheJoyOfHacking/cube0x0-CVE-2021-1675                                                                              |
 | https://github.com/TheJoyOfHacking/calebstewart-CVE-2021-1675                                                                         |
 | https://github.com/jj4152/cve-2021-1675                                                                                               |
-| https://github.com/sai-reddy2021/CVE-2021-1675-LPE                                                                                    |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-1699                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -12898,6 +12898,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/suuhm/log4shell4shell                                                                                              |
 | https://github.com/AnYi-Sec/Log4j-CVE-2021-44228-EXP                                                                                  |
 | https://github.com/wajda/log4shell-test-exploit                                                                                       |
+| https://github.com/obscuritylabs/log4shell-poc-lab                                                                                    |
 | https://github.com/Fazmin/vCenter-Server-Workaround-Script-CVE-2021-44228                                                             |
 | https://github.com/Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE                                                                          |
 | https://github.com/sysadmin0815/Fix-Log4j-PowershellScript                                                                            |
@@ -15138,6 +15139,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/winstxnhdw/CVE-2022-30190                                                                                          |
 | https://github.com/Imeneallouche/Follina-attack-CVE-2022-30190-                                                                       |
 | https://github.com/WilsonFung414/CVE-2022-30190                                                                                       |
+| https://github.com/mattjmillner/CVE-Smackdown                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-30206                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -15765,10 +15767,6 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/its-arun/CVE-2022-39197                                                                                            |
 | https://github.com/PyterSmithDarkGhost/CVE-2022-39197-POC                                                                             |
 | https://github.com/TheCryingGame/CVE-2022-39197-RCE                                                                                   |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-| CVE-2022-39395                                                                                                                        |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/harry1osborn/CVE-2022-39395                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-39802                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
