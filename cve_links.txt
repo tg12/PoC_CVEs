@@ -1,4 +1,4 @@
-Last updated: 2022-11-09 21:10
+Last updated: 2022-11-10 01:01
 Bitcoin: 3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54
 
 
@@ -320,7 +320,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2020-0674                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/suspiciousbytes/CVE-2020-0674                                                                                      |
+| https://github.com/5l1v3r1/CVE-2020-0674                                                                                              |
 | https://github.com/maxpl0it/CVE-2020-0674-Exploit                                                                                     |
 | https://github.com/Ken-Abruzzi/CVE-2020-0674                                                                                          |
 | https://github.com/Neko-chanQwQ/CVE-2020-0674-PoC                                                                                     |
