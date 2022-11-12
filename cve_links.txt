@@ -1,4 +1,4 @@
-Last updated: 2022-11-11 21:33
+Last updated: 2022-11-12 01:01
 Bitcoin: 3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54
 
 
@@ -11502,6 +11502,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/b-abderrahmane/CVE-2021-29447-POC                                                                                  |
 | https://github.com/akhils911dev/blind-xxe-controller-CVE-2021-29447                                                                   |
 | https://github.com/Val-Resh/CVE-2021-29447-POC                                                                                        |
+| https://github.com/M3l0nPan/wordpress-cve-2021-29447                                                                                  |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-29505                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -12899,7 +12900,6 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/suuhm/log4shell4shell                                                                                              |
 | https://github.com/AnYi-Sec/Log4j-CVE-2021-44228-EXP                                                                                  |
 | https://github.com/wajda/log4shell-test-exploit                                                                                       |
-| https://github.com/obscuritylabs/log4shell-poc-lab                                                                                    |
 | https://github.com/Fazmin/vCenter-Server-Workaround-Script-CVE-2021-44228                                                             |
 | https://github.com/Grupo-Kapa-7/CVE-2021-44228-Log4j-PoC-RCE                                                                          |
 | https://github.com/sysadmin0815/Fix-Log4j-PowershellScript                                                                            |
@@ -15898,6 +15898,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | CVE-2022-41352                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/segfault-it/cve-2022-41352                                                                                         |
+| https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce                                                                                 |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-41358                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
