@@ -1,4 +1,4 @@
-Last updated: 2022-11-12 15:42
+Last updated: 2022-11-13 01:01
 Bitcoin: 3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54
 
 
@@ -8527,6 +8527,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/littlebin404/CVE-2017-16995                                                                                        |
 | https://github.com/Lumindu/CVE-2017-16995-Linux-Kernel---BPF-Sign-Extension-Local-Privilege-Escalation-                               |
 | https://github.com/ph4ntonn/CVE-2017-16995                                                                                            |
+| https://github.com/ivilpez/cve-2017-16995.c                                                                                           |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-16997                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -13448,7 +13449,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/eduquintanilha/CVE-2022-0847-DirtyPipe-Exploits                                                                    |
 | https://github.com/EagleTube/CVE-2022-0847                                                                                            |
 | https://github.com/yoeelingBin/CVE-2022-0847-Container-Escape                                                                         |
-| https://github.com/irwx777/CVE-2022-0847                                                                                              |
+| https://github.com/icontempt/CVE-2022-0847                                                                                            |
 | https://github.com/notl0cal/dpipe                                                                                                     |
 | https://github.com/Gustavo-Nogueira/Dirty-Pipe-Exploits                                                                               |
 | https://github.com/trhacknon/CVE-2022-0847-DirtyPipe-Exploit                                                                          |
