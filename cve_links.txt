@@ -1,4 +1,4 @@
-Last updated: 2022-11-23 06:07
+Last updated: 2022-11-23 07:09
 Bitcoin: 3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54
 
 
@@ -13495,7 +13495,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/eduquintanilha/CVE-2022-0847-DirtyPipe-Exploits                                                                    |
 | https://github.com/EagleTube/CVE-2022-0847                                                                                            |
 | https://github.com/yoeelingBin/CVE-2022-0847-Container-Escape                                                                         |
-| https://github.com/icontempt/CVE-2022-0847                                                                                            |
+| https://github.com/c0ntempt/CVE-2022-0847                                                                                             |
 | https://github.com/notl0cal/dpipe                                                                                                     |
 | https://github.com/Gustavo-Nogueira/Dirty-Pipe-Exploits                                                                               |
 | https://github.com/trhacknon/CVE-2022-0847-DirtyPipe-Exploit                                                                          |
@@ -16075,6 +16075,10 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | CVE-2022-43959                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/secware-ru/CVE-2022-43959                                                                                          |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| CVE-2022-44789                                                                                                                        |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/alalng/CVE-2022-44789                                                                                              |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-44830                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
