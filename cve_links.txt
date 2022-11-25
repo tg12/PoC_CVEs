@@ -1,4 +1,4 @@
-Last updated: 2022-11-24 07:09
+Last updated: 2022-11-25 01:01
 Bitcoin: 3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54
 
 
@@ -12234,6 +12234,10 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/rhysmcneill/CVE-2021-403                                                                                           |
 +---------------------------------------------------------------------------------------------------------------------------------------+
+| CVE-2021-40303                                                                                                                        |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/zecopro/CVE-2021-40303                                                                                             |
++---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-4034                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/ryaagard/CVE-2021-4034                                                                                             |
@@ -12880,7 +12884,6 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/b-abderrahmane/CVE-2021-44228-playground                                                                           |
 | https://github.com/datadavev/test-44228                                                                                               |
 | https://github.com/LemonCraftRu/JndiRemover                                                                                           |
-| https://github.com/darkarnium/Log4j-CVE-Detect                                                                                        |
 | https://github.com/mergebase/log4j-detector                                                                                           |
 | https://github.com/corretto/hotpatch-for-apache-log4j2                                                                                |
 | https://github.com/CodeShield-Security/Log4JShell-Bytecode-Detector                                                                   |
@@ -12892,7 +12895,6 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/qingtengyun/cve-2021-44228-qingteng-online-patch                                                                   |
 | https://github.com/tasooshi/horrors-log4shell                                                                                         |
 | https://github.com/OlafHaalstra/log4jcheck                                                                                            |
-| https://github.com/psychose-club/Saturn                                                                                               |
 | https://github.com/Panyaprach/Proof-CVE-2021-44228                                                                                    |
 | https://github.com/cyberxml/log4j-poc                                                                                                 |
 | https://github.com/Diverto/nse-log4shell                                                                                              |
@@ -12910,6 +12912,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/LutziGoz/Log4J_Exploitation-Vulnerabiliy__CVE-2021-44228                                                           |
 | https://github.com/0xsyr0/Log4Shell                                                                                                   |
 | https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228                                                                        |
+| https://github.com/irgoncalves/f5-waf-quick-patch-cve-2021-44228                                                                      |
 | https://github.com/Koupah/MC-Log4j-Patcher                                                                                            |
 | https://github.com/kossatzd/log4j-CVE-2021-44228-test                                                                                 |
 | https://github.com/tobiasoed/log4j-CVE-2021-44228                                                                                     |
@@ -14410,6 +14413,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-24637                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/JacobEbben/CVE-2022-24637                                                                                          |
 | https://github.com/Lay0us1/CVE-2022-24637                                                                                             |
 | https://github.com/garySec/CVE-2022-24637                                                                                             |
 | https://github.com/hupe1980/CVE-2022-24637                                                                                            |
@@ -14734,6 +14738,10 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/avboy1337/CVE-2022-2639-PipeVersion                                                                                |
 | https://github.com/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639                                                          |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| CVE-2022-2650                                                                                                                         |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/HackinKraken/CVE-2022-2650                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-26503                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -15809,6 +15817,10 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/SupremacyTeam/evilReveal                                                                                           |
 +---------------------------------------------------------------------------------------------------------------------------------------+
+| CVE-2022-38374                                                                                                                        |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/azhurtanov/CVE-2022-38374                                                                                          |
++---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-38553                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/4websecurity/CVE-2022-38553                                                                                        |
@@ -15847,6 +15859,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/its-arun/CVE-2022-39197                                                                                            |
 | https://github.com/PyterSmithDarkGhost/CVE-2022-39197-POC                                                                             |
 | https://github.com/TheCryingGame/CVE-2022-39197-RCE                                                                                   |
+| https://github.com/adeljck/CVE-2022-39197                                                                                             |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-3942                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
