@@ -1,4 +1,4 @@
-Last updated: 2023-01-22 01:01
+Last updated: 2023-01-23 01:01
 Bitcoin: 3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54
 
 
@@ -1825,6 +1825,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/0000000O0Oo/Wordpress-CVE-2020-25213                                                                               |
 | https://github.com/piruprohacking/CVE-2020-25213                                                                                      |
 | https://github.com/b1ackros337/CVE-2020-25213                                                                                         |
+| https://github.com/BLY-Coder/Python-exploit-CVE-2020-25213                                                                            |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2020-25223                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -2713,7 +2714,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | CVE-2020-7246                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/j0hn30n/CVE-2020-7246                                                                                              |
-| https://github.com/arafatansari/SecAssignment                                                                                         |
+| https://github.com/cryptoconman/SecAssignment                                                                                         |
 | https://github.com/pswalia2u/CVE-2020-7246                                                                                            |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2020-7247                                                                                                                         |
@@ -3972,7 +3973,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/uwueviee/Fu3l-F1lt3r                                                                                               |
 | https://github.com/shoamshilo/Fuel-CMS-Remote-Code-Execution-1.4--RCE--                                                               |
 | https://github.com/padsalatushal/CVE-2018-16763                                                                                       |
-| https://github.com/SlizBinksman/THM-Vulnerability_Capstone-CVE-2018-16763                                                             |
+| https://github.com/wizardy0ga/THM-Vulnerability_Capstone-CVE-2018-16763                                                               |
 | https://github.com/k4u5h41/CVE-2018-16763                                                                                             |
 | https://github.com/BrunoPincho/cve-2018-16763-rust                                                                                    |
 | https://github.com/NaturalT314/CVE-2018-16763                                                                                         |
@@ -6378,7 +6379,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2019-15231                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/SlizBinksman/THM-Source-CVE-2019-15231                                                                             |
+| https://github.com/wizardy0ga/THM-Source-CVE-2019-15231                                                                               |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2019-15233                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -7296,7 +7297,6 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 | https://github.com/Asbatel/CVE-2019-5736_POC                                                                                          |
 | https://github.com/takumak/cve-2019-5736-reproducer                                                                                   |
 | https://github.com/si1ent-le/CVE-2019-5736                                                                                            |
-| https://github.com/batuhan-dilek99/CVE-2019-5736                                                                                      |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2019-5737                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -7386,7 +7386,7 @@ FOR EDUCATIONAL PURPOSES ONLY!!!
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/fs0c131y/ESFileExplorerOpenPortVuln                                                                                |
 | https://github.com/SandaRuFdo/ES-File-Explorer-Open-Port-Vulnerability---CVE-2019-6447                                                |
-| https://github.com/N3H4L/CVE-2019-6447                                                                                                |
+| https://github.com/Nehal-Zaman/CVE-2019-6447                                                                                          |
 | https://github.com/k4u5h41/CVE-2019-6447                                                                                              |
 | https://github.com/julio-cfa/POC-ES-File-Explorer-CVE-2019-6447                                                                       |
 | https://github.com/febinrev/CVE-2019-6447-ESfile-explorer-exploit                                                                     |
