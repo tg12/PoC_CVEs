@@ -1,8 +1,10 @@
-Last updated: 2023-02-03 18:29
+Last updated: 2023-02-03 18:31
 This item/feature has been temporarily removed due to instances of abuse and misuse. We take the safety and security of our users very seriously and will not tolerate any actions that compromise that. Our team is working on implementing measures to prevent further abuse and will bring back this item/feature once we are confident it can be used responsibly. Thank you for your understanding.If you would like to support this project, please consider donating to the following addresses:
 Bitcoin: 3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54
 ETH address: 0x01d23570c34A78380452A4BE9C95bAe439719bAf
-If you want the paid version of this script, please contact on Twitter+---------------------------------------------------------------------------------------------------------------------------------------+
+If you want the paid version of this script, please contact on Twitter
+
++---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2020-0001                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/Zachinio/CVE-2020-0001                                                                                             |
