@@ -1,4 +1,4 @@
-Last updated: 2023-02-06 01:01
+Last updated: 2023-02-07 01:01
 
 This item/feature has been temporarily removed due to instances of abuse and misuse. We take the safety and security of our users very seriously and will not tolerate any actions that compromise that. Our team is working on implementing measures to prevent further abuse and will bring back this item/feature once we are confident it can be used responsibly. Thank you for your understanding.If you would like to support this project, please consider donating to the following addresses:
 
@@ -14299,6 +14299,10 @@ If you want the paid version of this script, please contact on Twitter @James123
 | ***              |
 | ***              |
 +------------------+
+| CVE-2022-21587   |
++------------------+
+| ***              |
++------------------+
 | CVE-2022-21658   |
 +------------------+
 | ***              |
@@ -16880,6 +16884,8 @@ If you want the paid version of this script, please contact on Twitter @James123
 | ***              |
 | ***              |
 | ***              |
+| ***              |
+| ***              |
 +------------------+
 | CVE-2022-44311   |
 +------------------+
@@ -16916,6 +16922,10 @@ If you want the paid version of this script, please contact on Twitter @James123
 | ***              |
 +------------------+
 | CVE-2022-45025   |
++------------------+
+| ***              |
++------------------+
+| CVE-2022-4510    |
 +------------------+
 | ***              |
 +------------------+
@@ -17541,6 +17551,10 @@ If you want the paid version of this script, please contact on Twitter @James123
 | CVE-2023-22960   |
 +------------------+
 | ***              |
+| ***              |
++------------------+
+| CVE-2023-23333   |
++------------------+
 | ***              |
 +------------------+
 | CVE-2023-23488   |
