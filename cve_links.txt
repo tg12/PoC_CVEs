@@ -1,4 +1,4 @@
-Last updated: 2023-02-13 01:01
+Last updated: 2023-02-14 01:01
 
 This item/feature has been temporarily removed due to instances of abuse and misuse. We take the safety and security of our users very seriously and will not tolerate any actions that compromise that. Our team is working on implementing measures to prevent further abuse and will bring back this item/feature once we are confident it can be used responsibly. Thank you for your understanding.If you would like to support this project, please consider donating to the following addresses:
 
@@ -1884,6 +1884,7 @@ If you want the paid version of this script, please contact on Twitter @James123
 +------------------+
 | CVE-2020-2551    |
 +------------------+
+| ***              |
 | ***              |
 | ***              |
 | ***              |
@@ -10211,6 +10212,7 @@ If you want the paid version of this script, please contact on Twitter @James123
 | ***              |
 | ***              |
 | ***              |
+| ***              |
 +------------------+
 | CVE-2021-2173    |
 +------------------+
@@ -12273,6 +12275,7 @@ If you want the paid version of this script, please contact on Twitter @James123
 | ***              |
 | ***              |
 | ***              |
+| ***              |
 +------------------+
 | CVE-2021-40345   |
 +------------------+
@@ -13957,7 +13960,6 @@ If you want the paid version of this script, please contact on Twitter @James123
 | ***              |
 | ***              |
 | ***              |
-| ***              |
 +------------------+
 | CVE-2022-0848    |
 +------------------+
@@ -14732,7 +14734,6 @@ If you want the paid version of this script, please contact on Twitter @James123
 +------------------+
 | CVE-2022-23131   |
 +------------------+
-| ***              |
 | ***              |
 | ***              |
 | ***              |
@@ -16507,10 +16508,6 @@ If you want the paid version of this script, please contact on Twitter @James123
 +------------------+
 | ***              |
 +------------------+
-| CVE-2022-39073   |
-+------------------+
-| ***              |
-+------------------+
 | CVE-2022-39196   |
 +------------------+
 | ***              |
@@ -16902,6 +16899,7 @@ If you want the paid version of this script, please contact on Twitter @James123
 +------------------+
 | CVE-2022-44268   |
 +------------------+
+| ***              |
 | ***              |
 | ***              |
 | ***              |
@@ -17571,6 +17569,7 @@ If you want the paid version of this script, please contact on Twitter @James123
 +------------------+
 | CVE-2023-21608   |
 +------------------+
+| ***              |
 | ***              |
 | ***              |
 +------------------+
