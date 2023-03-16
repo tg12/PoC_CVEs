@@ -1,4 +1,4 @@
-Last updated: 2023-03-15 22:01
+Last updated: 2023-03-16 06:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -3242,6 +3242,7 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/bryanster/ioc-cve-2022-42475                                                                                       |
 | https://github.com/scrt/cve-2022-42475                                                                                                |
+| https://github.com/Amir-hy/cve-2022-42475                                                                                             |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-42864                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -4487,7 +4488,6 @@ Twitter @James12396379
 | https://github.com/trganda/CVE-2021-22204                                                                                             |
 | https://github.com/0xBruno/CVE-2021-22204                                                                                             |
 | https://github.com/tuhinGsg/CVE-2021-22204-exiftool                                                                                   |
-| https://github.com/Pajarraco4444/CVE-2021-22204                                                                                       |
 | https://github.com/UNICORDev/exploit-CVE-2021-22204                                                                                   |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-22205                                                                                                                        |
@@ -6391,7 +6391,6 @@ Twitter @James12396379
 | https://github.com/azazelm3dj3d/CVE-2021-4034                                                                                         |
 | https://github.com/TheJoyOfHacking/berdav-CVE-2021-4034                                                                               |
 | https://github.com/tzwlhack/CVE-2021-4034                                                                                             |
-| https://github.com/Pajarraco4444/CVE-2021-4034                                                                                        |
 | https://github.com/jcatala/f_poc_cve-2021-4034                                                                                        |
 | https://github.com/Nosferatuvjr/PwnKit                                                                                                |
 | https://github.com/TotallyNotAHaxxer/CVE-2021-4034                                                                                    |
@@ -6402,6 +6401,7 @@ Twitter @James12396379
 | https://github.com/TanmoyG1800/CVE-2021-4034                                                                                          |
 | https://github.com/CronoX1/CVE-2021-4034                                                                                              |
 | https://github.com/supportingmx/cve-2021-4034                                                                                         |
+| https://github.com/A1vinSmith/CVE-2021-4034                                                                                           |
 | https://github.com/HellGateCorp/pwnkit                                                                                                |
 | https://github.com/0xNix/CVE-2021-4034                                                                                                |
 | https://github.com/Silencecyber/cve-2021-4034                                                                                         |
