@@ -1,3 +1,7 @@
 CVE,URL
-CVE-2020-24815,https://github.com/ziadanbari2021/exploit-CVE-2020-24815.py
-CVE-2023-23397,https://github.com/djackreuter/CVE-2023-23397-PoC
+CVE-2021-25094,https://github.com/experimentalcrow1/TypeHub-Exploiter
+CVE-2022-0739,https://github.com/luxel-h/Bash-exploit-for-CVE-2022-0739
+CVE-2022-23773,https://github.com/Liuyushung/CVE-2022-23773-Reproduce
+CVE-2023-21036,https://github.com/qixils/anti-acropalypse
+CVE-2023-23397,https://github.com/ahmedkhlief/CVE-2023-23397-POC-Using-Interop-Outlook
+CVE-2023-23752,https://github.com/aliestercrowleymv/CVE-2023-23752-Vulnerability-Scanner
