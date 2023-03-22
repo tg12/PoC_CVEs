@@ -1,12 +1,3 @@
 CVE,URL
-CVE-2020-1971,https://github.com/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2020-1971
-CVE-2021-30632,https://github.com/maldev866/ChExp_CVE-2021-30632
-CVE-2021-3560,https://github.com/BizarreLove/CVE-2021-3560
-CVE-2022-0847,https://github.com/4bhishek0/CVE-2022-0847
-CVE-2022-22963,https://github.com/Mustafa1986/CVE-2022-22963
-CVE-2022-36193,https://github.com/G37SYS73M/CVE-2022-36193
-CVE-2022-46087,https://github.com/G37SYS73M/CVE-2022-46087
-CVE-2022-46463,https://github.com/404tk/CVE-2022-46463
-CVE-2023-0286,https://github.com/nidhi7598/OPENSSL_1.1.11g_G3_CVE-2023-0286
-CVE-2023-21768,https://github.com/HKxiaoli/Windows_AFD_LPE_CVE-2023-21768
-CVE-2023-28343,https://github.com/gobysec/CVE-2023-28343
+CVE-2023-21036,https://github.com/qixils/anticropalypse
+CVE-2023-23397,https://github.com/tiepologian/CVE-2023-23397
