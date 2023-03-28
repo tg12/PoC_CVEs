@@ -1,11 +1,2 @@
 CVE,URL
-CVE-2022-24716,https://github.com/doosec101/CVE-2022-24716
-CVE-2022-40494,https://github.com/carr0t2/nps-auth-bypass
-CVE-2022-47909,https://github.com/JacobEbben/CVE-2022-47909_unauth_arbitrary_file_deletion
-CVE-2023-25260,https://github.com/trustcves/CVE-2023-25260
-CVE-2023-25261,https://github.com/trustcves/CVE-2023-25261
-CVE-2023-25262,https://github.com/trustcves/CVE-2023-25262
-CVE-2023-25263,https://github.com/trustcves/CVE-2023-25263
-CVE-2023-28432,https://github.com/steponeerror/Cve-2023-28432-
-CVE-2023-28432,https://github.com/yuyongxr/minio_cve-2023-28432
-CVE-2023-28434,https://github.com/AbelChe/evil_minio
+CVE-2022-46836,https://github.com/JacobEbben/CVE-2022-46836_remote_code_execution
