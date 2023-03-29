@@ -1,4 +1,4 @@
-Last updated: 2023-03-28 20:03
+Last updated: 2023-03-29 06:03
 Bitcoin: 3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54
 
 
@@ -16,7 +16,7 @@ ETH address: 0x01d23570c34A78380452A4BE9C95bAe439719bAf
 |    5 | Al1ex                          |          41 |
 |    6 | cved-sources                   |          40 |
 |    7 | Vulnmachines                   |          36 |
-|    8 | 5l1v3r1                        |          33 |
+|    8 | 5l1v3r1                        |          34 |
 |    9 | nidhi7598                      |          32 |
 |   10 | ShaikUsaf                      |          30 |
 |   11 | plsanu                         |          30 |
