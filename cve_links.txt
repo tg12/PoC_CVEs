@@ -1,4 +1,4 @@
-Last updated: 2023-03-29 20:04
+Last updated: 2023-03-30 06:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -8559,7 +8559,6 @@ Twitter @James12396379
 | https://github.com/hderms/dh-CVE_2016_2098                                                                                            |
 | https://github.com/CyberDefenseInstitute/PoC_CVE-2016-2098_Rails42                                                                    |
 | https://github.com/Alejandro-MartinG/rails-PoC-CVE-2016-2098                                                                          |
-| https://github.com/0x00-0x00/CVE-2016-2098                                                                                            |
 | https://github.com/its-arun/CVE-2016-2098                                                                                             |
 | https://github.com/3rg1s/CVE-2016-2098                                                                                                |
 | https://github.com/DanielCodex/CVE-2016-2098-my-first-exploit                                                                         |
@@ -9945,6 +9944,7 @@ Twitter @James12396379
 | https://github.com/teambugsbunny/wpUsersScan                                                                                          |
 | https://github.com/R3K1NG/wpUsersScan                                                                                                 |
 | https://github.com/GeunSam2/CVE-2017-5487                                                                                             |
+| https://github.com/patilkr/wp-CVE-2017-5487-exploit                                                                                   |
 | https://github.com/kr4dd/CVE-2017-5487                                                                                                |
 | https://github.com/zkhalidul/GrabberWP-CVE-2017-5487                                                                                  |
 +---------------------------------------------------------------------------------------------------------------------------------------+
