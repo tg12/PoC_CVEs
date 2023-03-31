@@ -1,4 +1,4 @@
-Last updated: 2023-03-30 20:03
+Last updated: 2023-03-31 06:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -1555,7 +1555,6 @@ Twitter @James12396379
 | https://github.com/redhuntlabs/ConfluentPwn                                                                                           |
 | https://github.com/cai-niao98/CVE-2022-26134                                                                                          |
 | https://github.com/sunny-kathuria/exploit_CVE-2022-26134                                                                              |
-| https://github.com/KeepWannabe/BotCon                                                                                                 |
 | https://github.com/trhacknon/CVE-2022-26134                                                                                           |
 | https://github.com/trhacknon/CVE-2022-26134-bis                                                                                       |
 | https://github.com/trhacknon/CVE-2022-26134-miam                                                                                      |
