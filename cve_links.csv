@@ -1,3 +1,7 @@
 CVE,URL
-CVE-2019-15107,https://github.com/g1vi/CVE-2019-15107
-CVE-2023-21036,https://github.com/lordofpipes/acropadetect
+CVE-2019-1003000,https://github.com/slowmistio/CVE-2019-1003000-and-CVE-2018-1999002-Pre-Auth-RCE-Jenkins
+CVE-2021-22911,https://github.com/ChrisPritchard/CVE-2021-22911-rust
+CVE-2022-1227,https://github.com/iridium-soda/CVE-2022-1227_Exploit
+CVE-2022-25012,https://github.com/s3l33/CVE-2022-25012
+CVE-2022-3552,https://github.com/kabir0x23/CVE-2022-3552
+CVE-2023-23397,https://github.com/moneertv/CVE-2023-23397
