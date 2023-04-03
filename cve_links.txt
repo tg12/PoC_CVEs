@@ -1,4 +1,4 @@
-Last updated: 2023-04-02 20:03
+Last updated: 2023-04-03 06:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -7766,6 +7766,7 @@ Twitter @James12396379
 | https://github.com/Sma-Das/Log4j-PoC                                                                                                  |
 | https://github.com/heeloo123/CVE-2021-44228                                                                                           |
 | https://github.com/github-kyruuu/log4shell-vulnweb                                                                                    |
+| https://github.com/demonrvm/Log4ShellRemediation                                                                                      |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-44255                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -9255,7 +9256,6 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-0261                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/kcufId/eps-CVE-2017-0261                                                                                           |
 | https://github.com/erfze/CVE-2017-0261                                                                                                |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-0263                                                                                                                         |
@@ -9432,7 +9432,6 @@ Twitter @James12396379
 | https://github.com/r4b3rt/CVE-2017-10271                                                                                              |
 | https://github.com/cved-sources/cve-2017-10271                                                                                        |
 | https://github.com/XHSecurity/Oracle-WebLogic-CVE-2017-10271                                                                          |
-| https://github.com/kbsec/Weblogic_Wsat_RCE                                                                                            |
 | https://github.com/SkyBlueEternal/CNVD-C-2019-48814-CNNVD-201904-961                                                                  |
 | https://github.com/Yuusuke4/WebLogic_CNVD_C_2019_48814                                                                                |
 | https://github.com/7kbstorm/WebLogic_CNVD_C2019_48814                                                                                 |
@@ -10056,7 +10055,6 @@ Twitter @James12396379
 | https://github.com/Iletee/struts2-rce                                                                                                 |
 | https://github.com/andypitcher/check_struts                                                                                           |
 | https://github.com/un4ckn0wl3z/CVE-2017-5638                                                                                          |
-| https://github.com/colorblindpentester/CVE-2017-5638                                                                                  |
 | https://github.com/injcristianrojas/cve-2017-5638                                                                                     |
 | https://github.com/pasannirmana/Aspire                                                                                                |
 | https://github.com/ludy-dev/XworkStruts-RCE                                                                                           |
