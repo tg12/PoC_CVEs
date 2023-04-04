@@ -1,4 +1,4 @@
-Last updated: 2023-04-03 20:03
+Last updated: 2023-04-04 06:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -588,7 +588,6 @@ Twitter @James12396379
 | https://github.com/thack1/CVE-2022-21449                                                                                              |
 | https://github.com/Damok82/SignChecker                                                                                                |
 | https://github.com/fundaergn/CVE-2022-21449                                                                                           |
-| https://github.com/PyterSmithDarkGhost/CVE-2022-21449-I2P-TLS-POC                                                                     |
 | https://github.com/Skipper7718/CVE-2022-21449-showcase                                                                                |
 | https://github.com/davwwwx/CVE-2022-21449                                                                                             |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -612,7 +611,6 @@ Twitter @James12396379
 | https://github.com/TAPESH-TEAM/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection                                             |
 | https://github.com/purple-WL/wordpress-CVE-2022-21661                                                                                 |
 | https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661                                                                          |
-| https://github.com/PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main                                |
 | https://github.com/z92g/CVE-2022-21661                                                                                                |
 | https://github.com/QWERTYisme/CVE-2022-21661                                                                                          |
 | https://github.com/APTIRAN/CVE-2022-21661                                                                                             |
@@ -723,10 +721,6 @@ Twitter @James12396379
 | CVE-2022-22582                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/poizon-box/CVE-2022-22582                                                                                          |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-| CVE-2022-22588                                                                                                                        |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588                                                              |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-22600                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -1559,7 +1553,6 @@ Twitter @James12396379
 | https://github.com/whokilleddb/CVE-2022-26134-Confluence-RCE                                                                          |
 | https://github.com/Habib0x0/CVE-2022-26134                                                                                            |
 | https://github.com/Y000o/Confluence-CVE-2022-26134                                                                                    |
-| https://github.com/PyterSmithDarkGhost/0DAYEXPLOITAtlassianConfluenceCVE-2022-26134                                                   |
 | https://github.com/redhuntlabs/ConfluentPwn                                                                                           |
 | https://github.com/cai-niao98/CVE-2022-26134                                                                                          |
 | https://github.com/sunny-kathuria/exploit_CVE-2022-26134                                                                              |
@@ -2542,10 +2535,6 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/Wh04m1001/CVE-2022-3368                                                                                            |
 +---------------------------------------------------------------------------------------------------------------------------------------+
-| CVE-2022-3382                                                                                                                         |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC                                                                |
-+---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-33891                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/W01fh4cker/cve-2022-33891                                                                                          |
@@ -2976,7 +2965,6 @@ Twitter @James12396379
 | https://github.com/hluwa/cobaltstrike_swing_xss2rce                                                                                   |
 | https://github.com/4nth0ny1130/CVE-2022-39197-fix_patch                                                                               |
 | https://github.com/its-arun/CVE-2022-39197                                                                                            |
-| https://github.com/PyterSmithDarkGhost/CVE-2022-39197-POC                                                                             |
 | https://github.com/TheCryingGame/CVE-2022-39197-RCE                                                                                   |
 | https://github.com/adeljck/CVE-2022-39197                                                                                             |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -8147,7 +8135,6 @@ Twitter @James12396379
 | CVE-2023-21608                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/hacksysteam/CVE-2023-21608                                                                                         |
-| https://github.com/PyterSmithDarkGhost/CVE-2023-21608-EXPLOIT                                                                         |
 | https://github.com/Malwareman007/CVE-2023-21608                                                                                       |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-21716                                                                                                                        |
@@ -8305,7 +8292,6 @@ Twitter @James12396379
 | https://github.com/ATTACKnDEFEND/CVE-2023-24055                                                                                       |
 | https://github.com/julesbozouklian/PoC_CVE-2023-24055                                                                                 |
 | https://github.com/digital-dev/KeePass-TriggerLess                                                                                    |
-| https://github.com/PyterSmithDarkGhost/CVE-2023-24055-PoC-KeePass-2.5x-                                                               |
 | https://github.com/zwlsix/KeePass-CVE-2023-24055                                                                                      |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-24059                                                                                                                        |
@@ -11751,7 +11737,6 @@ Twitter @James12396379
 | https://github.com/NHPT/CVE-2019-16278                                                                                                |
 | https://github.com/keshiba/cve-2019-16278                                                                                             |
 | https://github.com/k4u5h41/CVE-2019-16278                                                                                             |
-| https://github.com/alexander-fernandes/CVE-2019-16278                                                                                 |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2019-16279                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -11781,7 +11766,6 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/dubfr33/CVE-2019-1653                                                                                              |
 | https://github.com/shaheemirza/CiscoSpill                                                                                             |
-| https://github.com/helGayhub233/CVE-2019-1653                                                                                         |
 | https://github.com/ibrahimzx/CVE-2019-1653                                                                                            |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2019-16662                                                                                                                        |
@@ -12285,10 +12269,6 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/jerrylewis9/CVE-2019-20361-EXPLOIT                                                                                 |
 +---------------------------------------------------------------------------------------------------------------------------------------+
-| CVE-2019-20372                                                                                                                        |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/vuongnv3389-sec/CVE-2019-20372                                                                                     |
-+---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2019-20933                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933                                                                     |
@@ -12684,7 +12664,6 @@ Twitter @James12396379
 | https://github.com/k4u5h41/CVE-2019-6447                                                                                              |
 | https://github.com/julio-cfa/POC-ES-File-Explorer-CVE-2019-6447                                                                       |
 | https://github.com/febinrev/CVE-2019-6447-ESfile-explorer-exploit                                                                     |
-| https://github.com/Kayky-cmd/CVE-2019-6447--.                                                                                         |
 | https://github.com/VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer                                                 |
 | https://github.com/Osuni-99/CVE-2019-6447                                                                                             |
 | https://github.com/Chethine/EsFileExplorer-CVE-2019-6447                                                                              |
