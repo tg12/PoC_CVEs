@@ -1,4 +1,4 @@
-Last updated: 2023-04-08 06:03
+Last updated: 2023-04-08 20:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -100,7 +100,7 @@ Twitter @James12396379
 | https://github.com/Ki11i0n4ir3/CVE-2022-0739                                                                                          |
 | https://github.com/viardant/CVE-2022-0739                                                                                             |
 | https://github.com/ElGanz0/CVE-2022-0739                                                                                              |
-| https://github.com/luxel-h/Bash-exploit-for-CVE-2022-0739                                                                             |
+| https://github.com/lhamouche/Bash-exploit-for-CVE-2022-0739                                                                           |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-0778                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -1512,6 +1512,7 @@ Twitter @James12396379
 | https://github.com/LukeGix/CVE-2022-2602                                                                                              |
 | https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit                                                                                 |
 | https://github.com/th3-5had0w/CVE-2022-2602-Study                                                                                     |
+| https://github.com/vnc1106/CVE-2022-2602                                                                                              |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-26133                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -3321,6 +3322,7 @@ Twitter @James12396379
 | https://github.com/devenes/text4shell-cve-2022-42889                                                                                  |
 | https://github.com/hotblac/text4shell                                                                                                 |
 | https://github.com/necroteddy/CVE-2022-42889                                                                                          |
+| https://github.com/ReachabilityOrg/cve-2022-42889-text4shell-docker                                                                   |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-42896                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+

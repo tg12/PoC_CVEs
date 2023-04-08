@@ -1,5 +1,4 @@
 CVE,URL
-CVE-2021-34527,https://github.com/fardinbarashi/PsFix-CVE-2021-34527
-CVE-2022-46169,https://github.com/JacobEbben/CVE-2022-46169_unauth_remote_code_execution
-CVE-2023-21742,https://github.com/ohnonoyesyes/CVE-2023-21742
-CVE-2023-29017,https://github.com/timb-machine-mirrors/gist-seongil-wi-CVE-2023-29017
+CVE-2022-0739,https://github.com/lhamouche/Bash-exploit-for-CVE-2022-0739
+CVE-2022-2602,https://github.com/vnc1106/CVE-2022-2602
+CVE-2022-42889,https://github.com/ReachabilityOrg/cve-2022-42889-text4shell-docker
