@@ -1,12 +1,5 @@
 CVE,URL
-CVE-2020-2551,https://github.com/DaMinGshidashi/CVE-2020-2551
-CVE-2020-6287,https://github.com/qmakake/SAP_CVE-2020-6287_find_mandate
-CVE-2022-21306,https://github.com/hktalent/CVE-2022-21306
-CVE-2022-38604,https://github.com/LucaBarile/CVE-2022-38604
-CVE-2022-43293,https://github.com/LucaBarile/CVE-2022-43293
-CVE-2022-45047,https://github.com/hktalent/CVE-2022-45047
-CVE-2023-1454,https://github.com/MzzdToT/CVE-2023-1454
-CVE-2023-21389,https://github.com/sxsuperxuan/Weblogic_CVE-2023-21389
-CVE-2023-21837,https://github.com/hktalent/CVE-2023-21837
-CVE-2023-27100,https://github.com/DarokNET/CVE-2023-27100
-CVE-2023-29017,https://github.com/timb-machine-mirrors/CVE-2023-29017
+CVE-2021-34527,https://github.com/fardinbarashi/PsFix-CVE-2021-34527
+CVE-2022-46169,https://github.com/JacobEbben/CVE-2022-46169_unauth_remote_code_execution
+CVE-2023-21742,https://github.com/ohnonoyesyes/CVE-2023-21742
+CVE-2023-29017,https://github.com/timb-machine-mirrors/gist-seongil-wi-CVE-2023-29017
