@@ -1,4 +1,8 @@
 CVE,URL
-CVE-2022-0739,https://github.com/lhamouche/Bash-exploit-for-CVE-2022-0739
-CVE-2022-2602,https://github.com/vnc1106/CVE-2022-2602
-CVE-2022-42889,https://github.com/ReachabilityOrg/cve-2022-42889-text4shell-docker
+CVE-2018-11631,https://github.com/ColeShelly/bandexploit
+CVE-2021-22005,https://github.com/timb-machine-mirrors/testanull-CVE-2021-22005.py
+CVE-2021-28482,https://github.com/timb-machine-mirrors/testanull-CVE-2021-28482.py
+CVE-2021-3060,https://github.com/timb-machine-mirrors/rqu1-cve-2021-3060.py
+CVE-2021-30955,https://github.com/timb-machine-mirrors/jakeajames-CVE-2021-30955
+CVE-2021-42321,https://github.com/timb-machine-mirrors/testanull-CVE-2021-42321_poc.py
+CVE-2023-29017,https://github.com/timb-machine-mirrors/seongil-wi-CVE-2023-29017
