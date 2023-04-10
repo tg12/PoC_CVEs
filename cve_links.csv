@@ -1,3 +1,8 @@
 CVE,URL
-CVE-2021-44228,https://github.com/YuanRuQian/CVE-2021-44228-attack-demo
-CVE-2023-28432,https://github.com/h0ng10/CVE-2023-28432_docker
+CVE-2019-20059,https://github.com/cve-vuln/CVE-2019-20059
+CVE-2021-44228,https://github.com/hassaanahmad813/log4j
+CVE-2022-1388,https://github.com/ByteCaps/CVE-2022-1388-EXP
+CVE-2022-22963,https://github.com/SourM1lk/CVE-2022-22963-Exploit
+CVE-2022-30190,https://github.com/ByteCaps/CVE-2022-30190
+CVE-2023-29017,https://github.com/Kaneki-hash/CVE-2023-29017-reverse-shell
+CVE-2023-30459,https://github.com/Toxich4/CVE-2023-30459
