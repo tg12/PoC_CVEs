@@ -1,1 +1,5 @@
 CVE,URL
+CVE-2021-44228,https://github.com/funcid/log4j-exploit-with-fork-bomb
+CVE-2022-46689,https://github.com/tdquang266/MDC
+CVE-2023-2002,https://github.com/lrh2000/CVE-2023-2002
+CVE-2023-21036,https://github.com/cafedork/acropolypse-bot
