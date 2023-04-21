@@ -1,12 +1,2 @@
 CVE,URL
-CVE-2020-17453,https://github.com/karthi-the-hacker/CVE-2020-17453
-CVE-2020-1971,https://github.com/nidhi7598/OPENSSL_1.1.1g_G3_CVE-2020-1971
-CVE-2021-1732,https://github.com/r2bet/CVE-2021-1732
-CVE-2022-0435,https://github.com/wlswotmd/CVE-2022-0435
-CVE-2022-34024,https://github.com/sorabug/bug_report
-CVE-2023-0286,https://github.com/nidhi7598/OPENSSL_1.1.1g_G3_CVE-2023-0286
-CVE-2023-21554,https://github.com/g1x-r/CVE-2023-21554-PoC
-CVE-2023-21554,https://github.com/g3tS3rvic3s/CVE-2023-21554-RCE-POC
-CVE-2023-21768,https://github.com/zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit
-CVE-2023-21823,https://github.com/Elizarfish/CVE-2023-21823
-CVE-2023-25234,https://github.com/FzBacon/CVE-2023-25234_Tenda_AC6_stack_overflow
+CVE-2021-41773,https://github.com/MatanelGordon/docker-cve-2021-41773
