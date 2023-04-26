@@ -1,11 +1,4 @@
 CVE,URL
-CVE-2019-9081,https://github.com/qafdevsec/CVE-2019-9081_PoC
-CVE-2021-26855,https://github.com/iceberg-N/cve-2021-26855
-CVE-2022-22733,https://github.com/Zeyad-Azima/CVE-2022-22733
-CVE-2022-29464,https://github.com/Pari-Malam/CVE-2022-29464
-CVE-2022-33959,https://github.com/gitadvisor/CVE-2022-33959
-CVE-2023-1671,https://github.com/behnamvanda/CVE-2023-1671
-CVE-2023-2114,https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114
-CVE-2023-22621,https://github.com/sofianeelhor/CVE-2023-22621-POC
-CVE-2023-25690,https://github.com/tbachvarova/linux-apache-fix-mod_rewrite-spaceInURL
-CVE-2023-27524,https://github.com/horizon3ai/CVE-2023-27524
+CVE-2022-37706,https://github.com/GrayHatZone/CVE-2022-37706-LPE-exploit
+CVE-2023-25292,https://github.com/brainkok/CVE-2023-25292
+CVE-2023-27350,https://github.com/adhikara13/CVE-2023-27350
