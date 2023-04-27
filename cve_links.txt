@@ -1,4 +1,4 @@
-Last updated: 2023-04-26 20:03
+Last updated: 2023-04-27 06:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -622,6 +622,7 @@ Twitter @James12396379
 | https://github.com/APTIRAN/CVE-2022-21661                                                                                             |
 | https://github.com/WellingtonEspindula/SSI-CVE-2022-21661                                                                             |
 | https://github.com/daniel616/CVE-2022-21661-Demo                                                                                      |
+| https://github.com/sealldeveloper/CVE-2022-21661-PoC                                                                                  |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-21668                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
