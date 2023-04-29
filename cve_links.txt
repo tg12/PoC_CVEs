@@ -1,4 +1,4 @@
-Last updated: 2023-04-29 06:03
+Last updated: 2023-04-29 20:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -6117,7 +6117,7 @@ Twitter @James12396379
 | https://github.com/JoranSlingerland/CVE-2021-36934                                                                                    |
 | https://github.com/WiredPulse/Invoke-HiveNightmare                                                                                    |
 | https://github.com/tda90/CVE-2021-36934                                                                                               |
-| https://github.com/cube0x0/CVE-2021-36934                                                                                             |
+| https://github.com/exploitblizzard/CVE-2021-36934                                                                                     |
 | https://github.com/irissentinel/CVE-2021-36934                                                                                        |
 | https://github.com/websecnl/CVE-2021-36934                                                                                            |
 | https://github.com/grishinpv/poc_CVE-2021-36934                                                                                       |
@@ -8692,6 +8692,8 @@ Twitter @James12396379
 | https://github.com/learnerboy88/CVE-2023-29489                                                                                        |
 | https://github.com/xKore123/cPanel-CVE-2023-29489                                                                                     |
 | https://github.com/ipk1/CVE-2023-29489.py                                                                                             |
+| https://github.com/Mostafa-Elguerdawi/CVE-2023-29489.yaml                                                                             |
+| https://github.com/Mostafa-Elguerdawi/CVE-2023-29489                                                                                  |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-30458                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
