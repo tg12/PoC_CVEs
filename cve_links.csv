@@ -1,4 +1,7 @@
 CVE,URL
-CVE-2019-16278,https://github.com/FredBrave/CVE-2019-16278-Nostromo-1.9.6-RCE
-CVE-2022-46169,https://github.com/BKreisel/CVE-2022-46169
-CVE-2023-27524,https://github.com/Pari-Malam/CVE-2023-27524
+CVE-2020-1472,https://github.com/G0urmetD/Zerologon-CVE-2020-1472
+CVE-2022-42889,https://github.com/RSA-Demo/cve-2022-42889-text4shell
+CVE-2023-0386,https://github.com/xkaneiki/CVE-2023-0386
+CVE-2023-27326,https://github.com/Malwareman007/CVE-2023-27326
+CVE-2023-29489,https://github.com/1337r0j4n/CVE-2023-29489
+CVE-2023-30185,https://github.com/c7w1n/CVE-2023-30185
