@@ -1,9 +1,2 @@
 CVE,URL
-CVE-2021-26882,https://github.com/taiji-xo/CVE-2021-26882
-CVE-2021-36260,https://github.com/TakenoSite/Simple-CVE-2021-36260
-CVE-2022-0543,https://github.com/SiennaSkies/redisHack
-CVE-2022-33980,https://github.com/P0lar1ght/CVE-2022-33980-EXP
-CVE-2023-0461,https://github.com/nidhi7598/linux-4.19.72_CVE-2023-0461
-CVE-2023-2594,https://github.com/thehackingverse/CVE-2023-2594
-CVE-2023-28772,https://github.com/nidhi7598/linux-4.19.72_CVE-2023-28772
-CVE-2023-28772,https://github.com/Trinadh465/linux-4.1.15_CVE-2023-28772
+CVE-2023-2123,https://github.com/daniloalbuqrque/poc-cve-xss-encoded-wp-inventory-manager-plugin
