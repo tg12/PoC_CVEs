@@ -1,4 +1,4 @@
-Last updated: 2023-05-12 06:03
+Last updated: 2023-05-12 20:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -1537,7 +1537,6 @@ Twitter @James12396379
 | https://github.com/LukeGix/CVE-2022-2602                                                                                              |
 | https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit                                                                                 |
 | https://github.com/th3-5had0w/CVE-2022-2602-Study                                                                                     |
-| https://github.com/vnc1106/CVE-2022-2602                                                                                              |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-26133                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -3696,6 +3695,7 @@ Twitter @James12396379
 | https://github.com/Safarchand/CVE-2022-46169                                                                                          |
 | https://github.com/MarkStrendin/CVE-2022-46169                                                                                        |
 | https://github.com/BKreisel/CVE-2022-46169                                                                                            |
+| https://github.com/ahanel13/ImprovedShell-for-CVE-2022-46169                                                                          |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-46175                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -6153,7 +6153,6 @@ Twitter @James12396379
 | https://github.com/JoranSlingerland/CVE-2021-36934                                                                                    |
 | https://github.com/WiredPulse/Invoke-HiveNightmare                                                                                    |
 | https://github.com/tda90/CVE-2021-36934                                                                                               |
-| https://github.com/exploitblizzard/CVE-2021-36934                                                                                     |
 | https://github.com/irissentinel/CVE-2021-36934                                                                                        |
 | https://github.com/websecnl/CVE-2021-36934                                                                                            |
 | https://github.com/grishinpv/poc_CVE-2021-36934                                                                                       |
@@ -7430,6 +7429,7 @@ Twitter @James12396379
 | https://github.com/YourKeeper/SunScope                                                                                                |
 | https://github.com/Ki11i0n4ir3/CVE-2021-43798                                                                                         |
 | https://github.com/mauricelambert/LabAutomationCVE-2021-43798                                                                         |
+| https://github.com/FAOG99/GrafanaDirectoryScanner                                                                                     |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-43799                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -7538,6 +7538,7 @@ Twitter @James12396379
 | https://github.com/winnpixie/log4noshell                                                                                              |
 | https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes                                                                               |
 | https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words                                                                     |
+| https://github.com/kozmer/log4j-shell-poc                                                                                             |
 | https://github.com/alexandreroman/cve-2021-44228-workaround-buildpack                                                                 |
 | https://github.com/Adikso/minecraft-log4j-honeypot                                                                                    |
 | https://github.com/racoon-rac/CVE-2021-44228                                                                                          |
@@ -8774,6 +8775,7 @@ Twitter @James12396379
 | https://github.com/hheeyywweellccoommee/linux-4.1.15_CVE-2023-28772-ipchu                                                             |
 | https://github.com/Trinadh465/linux-4.1.15_CVE-2023-28772                                                                             |
 | https://github.com/Satheesh575555/linux-4.1.15_CVE-2023-28772                                                                         |
+| https://github.com/hshivhare67/kernel_v4.1.15_CVE-2023-28772                                                                          |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-29007                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
