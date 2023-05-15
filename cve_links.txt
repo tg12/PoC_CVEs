@@ -1,4 +1,4 @@
-Last updated: 2023-05-14 20:03
+Last updated: 2023-05-15 06:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -678,6 +678,7 @@ Twitter @James12396379
 | https://github.com/corelight/cve-2022-21907                                                                                           |
 | https://github.com/mauricelambert/CVE-2022-21907                                                                                      |
 | https://github.com/ZZ-SOCMAP/CVE-2022-21907                                                                                           |
+| https://github.com/xiska62314/CVE-2022-21907                                                                                          |
 | https://github.com/p0dalirius/CVE-2022-21907-http.sys                                                                                 |
 | https://github.com/michelep/CVE-2022-21907-Vulnerability-PoC                                                                          |
 | https://github.com/polakow/CVE-2022-21907                                                                                             |
@@ -8893,6 +8894,7 @@ Twitter @James12396379
 | CVE-2023-32243                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/little44n1o/cve-2023-32243                                                                                         |
+| https://github.com/gbrsh/CVE-2023-32243                                                                                               |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2009-1904                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
