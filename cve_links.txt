@@ -1,4 +1,4 @@
-Last updated: 2023-05-18 06:03
+Last updated: 2023-05-18 20:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -6032,6 +6032,7 @@ Twitter @James12396379
 | https://github.com/mrlihd/CVE-2021-35042                                                                                              |
 | https://github.com/r4vi/CVE-2021-35042                                                                                                |
 | https://github.com/Zh0ngS0n1337/CVE-2021-35042                                                                                        |
+| https://github.com/LUUANHDUC/CVE-2021-35042                                                                                           |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-35064                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -8372,6 +8373,7 @@ Twitter @James12396379
 | CVE-2023-21554                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/Hashi0x/PoC-CVE-2023-21554                                                                                         |
+| https://github.com/zoemurmure/CVE-2023-21554-PoC                                                                                      |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-21608                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -9355,6 +9357,7 @@ Twitter @James12396379
 | https://github.com/acidburnmi/CVE-2016-5195-master                                                                                    |
 | https://github.com/xpcmdshell/derpyc0w                                                                                                |
 | https://github.com/Brucetg/DirtyCow-EXP                                                                                               |
+| https://github.com/jas502n/CVE-2016-5195                                                                                              |
 | https://github.com/imust6226/dirtcow                                                                                                  |
 | https://github.com/zakariamaaraki/Dirty-COW-CVE-2016-5195-                                                                            |
 | https://github.com/shanuka-ashen/Dirty-Cow-Explanation-CVE-2016-5195-                                                                 |
@@ -13106,7 +13109,6 @@ Twitter @James12396379
 | CVE-2019-6111                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/53n7hu/SNP                                                                                                         |
-| https://github.com/Sigmw/CVE-2019-6111-poc                                                                                            |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2019-6203                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -14765,7 +14767,7 @@ Twitter @James12396379
 | CVE-2018-16763                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/dinhbaouit/CVE-2018-16763                                                                                          |
-| https://github.com/ecebotarosh/CVE-2018-16763-exploit                                                                                 |
+| https://github.com/hikarihacks/CVE-2018-16763-exploit                                                                                 |
 | https://github.com/n3m1dotsys/CVE-2018-16763-Exploit-Python3                                                                          |
 | https://github.com/uwueviee/Fu3l-F1lt3r                                                                                               |
 | https://github.com/shoamshilo/Fuel-CMS-Remote-Code-Execution-1.4--RCE--                                                               |
