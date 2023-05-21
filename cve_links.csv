@@ -1,4 +1,14 @@
 CVE,URL
-CVE-2021-3493,https://github.com/smallkill/CVE-2021-3493
-CVE-2022-24716,https://github.com/antisecc/CVE-2022-24716
-CVE-2023-32784,https://github.com/vdohney/keepass-password-dumper
+CVE-2017-11882,https://github.com/rip1s/CVE-2017-11882
+CVE-2018-8120,https://github.com/rip1s/CVE-2018-8120
+CVE-2019-1458,https://github.com/rip1s/CVE-2019-1458
+CVE-2019-25137,https://github.com/Ickarah/CVE-2019-25137-Version-Research
+CVE-2021-3438,https://github.com/Exploitables/CVE-2021-3438
+CVE-2021-4154,https://github.com/veritas501/CVE-2021-4154
+CVE-2022-2588,https://github.com/veritas501/CVE-2022-2588
+CVE-2022-3910,https://github.com/veritas501/CVE-2022-3910
+CVE-2022-46169,https://github.com/antisecc/CVE-2022-46169
+CVE-2023-0297,https://github.com/JacobEbben/CVE-2023-0297
+CVE-2023-0386,https://github.com/veritas501/CVE-2023-0386
+CVE-2023-24055,https://github.com/attackNdefend/CVE-2023-24055
+CVE-2023-32784,https://github.com/und3sc0n0c1d0/BruteForce-to-KeePass
