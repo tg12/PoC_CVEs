@@ -1,4 +1,4 @@
-Last updated: 2023-05-21 20:04
+Last updated: 2023-05-22 06:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -8981,6 +8981,7 @@ Twitter @James12396379
 | https://github.com/vdohney/keepass-password-dumper                                                                                    |
 | https://github.com/CTM1/CVE-2023-32784-keepass-linux                                                                                  |
 | https://github.com/und3sc0n0c1d0/BruteForce-to-KeePass                                                                                |
+| https://github.com/z-jxy/keepass_dump                                                                                                 |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2009-1904                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
