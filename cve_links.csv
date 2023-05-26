@@ -1,10 +1,4 @@
 CVE,URL
-CVE-2020-0796,https://github.com/Ajomix/CVE-2020-0796-VCS
-CVE-2023-2732,https://github.com/RandomRobbieBF/CVE-2023-2732
-CVE-2023-2825,https://github.com/Occamsec/CVE-2023-2825
-CVE-2023-29923,https://github.com/CKevens/CVE-2023-29923-Scan
-CVE-2023-29929,https://github.com/YSaxon/CVE-2023-29929
-CVE-2023-30145,https://github.com/paragbagul111/CVE-2023-30145.
-CVE-2023-30212,https://github.com/kuttappu123/CVE-2023-30212-LAB
-CVE-2023-30212,https://github.com/Rishipatidar/CVE-2023-30212-POC-DOCKER-FILE
-CVE-2023-33829,https://github.com/n3gox/CVE-2023-33829
+CVE-2022-22963,https://github.com/nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963
+CVE-2023-25292,https://github.com/tucommenceapousser/CVE-2023-25292
+CVE-2023-30145,https://github.com/paragbagul111/CVE-2023-30145
