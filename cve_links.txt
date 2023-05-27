@@ -1,4 +1,4 @@
-Last updated: 2023-05-27 06:03
+Last updated: 2023-05-27 20:04
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -2674,10 +2674,6 @@ Twitter @James12396379
 | CVE-2022-34970                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/0xhebi/CVE-2022-34970                                                                                              |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-| CVE-2022-34972                                                                                                                        |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/DevCyberNico/exploit_-CVE-2022-34972                                                                               |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-35131                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -8748,6 +8744,7 @@ Twitter @James12396379
 | https://github.com/TamingSariMY/CVE-2023-27350-POC                                                                                    |
 | https://github.com/horizon3ai/CVE-2023-27350                                                                                          |
 | https://github.com/adhikara13/CVE-2023-27350                                                                                          |
+| https://github.com/Pari-Malam/CVE-2023-27350                                                                                          |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-27524                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -8827,6 +8824,7 @@ Twitter @James12396379
 | https://github.com/LHXHL/Minio-CVE-2023-28432                                                                                         |
 | https://github.com/h0ng10/CVE-2023-28432_docker                                                                                       |
 | https://github.com/CHINA-china/MinIO_CVE-2023-28432_EXP                                                                               |
+| https://github.com/TaroballzChen/CVE-2023-28432-metasploit-scanner                                                                    |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-28434                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -8936,6 +8934,12 @@ Twitter @James12396379
 | https://github.com/Anandhu990/r-CVE-2023-30212--lab                                                                                   |
 | https://github.com/Anandhu990/CVE-2023-30212-iab                                                                                      |
 | https://github.com/Anandhu990/CVE-2023-30212_lab                                                                                      |
+| https://github.com/libas7994/CVE-2023-30212                                                                                           |
+| https://github.com/libasmon/Vulnerable-Docker-Environment-CVE-2023-30212                                                              |
+| https://github.com/libasmon/-create-a-vulnerable-Docker-environment-that-is-susceptible-to-CVE-2023-30212                             |
+| https://github.com/libasmon/Exploite-CVE-2023-30212-Vulnerability                                                                     |
+| https://github.com/libas7994/Exploit-the-CVE-2023-30212-vulnerability                                                                 |
+| https://github.com/libasv/Exploite-CVE-2023-30212-vulnerability                                                                       |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-30256                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -9044,9 +9048,9 @@ Twitter @James12396379
 | https://github.com/little44n1o/cve-2023-32243                                                                                         |
 | https://github.com/gbrsh/CVE-2023-32243                                                                                               |
 | https://github.com/RandomRobbieBF/CVE-2023-32243                                                                                      |
-| https://github.com/domainhigh/Mass-CVE-2023-32243                                                                                     |
 | https://github.com/manavvedawala/CVE-2023-32243-POC                                                                                   |
 | https://github.com/manavvedawala/CVE-2023-32243-proof-of-concept                                                                      |
+| https://github.com/hheeyywweellccoommee/Mass-CVE-2023-32243-kcpqa                                                                     |
 | https://github.com/YouGina/CVE-2023-32243                                                                                             |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-32784                                                                                                                        |
