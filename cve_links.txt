@@ -1,4 +1,4 @@
-Last updated: 2023-05-27 20:04
+Last updated: 2023-05-28 06:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -12948,6 +12948,7 @@ Twitter @James12396379
 | https://github.com/mufidmb38/CVE-2019-2215                                                                                            |
 | https://github.com/nicchongwb/Rootsmart-v2.0                                                                                          |
 | https://github.com/enceka/cve-2019-2215-3.18                                                                                          |
+| https://github.com/elbiazo/CVE-2019-2215                                                                                              |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2019-25024                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
