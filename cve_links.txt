@@ -1,4 +1,4 @@
-Last updated: 2023-06-03 20:03
+Last updated: 2023-06-04 06:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -7131,6 +7131,7 @@ Twitter @James12396379
 | https://github.com/retrymp3/apache2.4.49VulnerableLabSetup                                                                            |
 | https://github.com/MatanelGordon/docker-cve-2021-41773                                                                                |
 | https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT                                                                                  |
+| https://github.com/0xGabe/Apache-CVEs                                                                                                 |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-41784                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
