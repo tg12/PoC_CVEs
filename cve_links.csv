@@ -1,7 +1,2 @@
 CVE,URL
-CVE-2023-25157,https://github.com/win3zz/CVE-2023-25157
-CVE-2023-2732,https://github.com/Jenderal92/WP-CVE-2023-2732
-CVE-2023-28178,https://github.com/ahickmansec/CVE-2023-28178-patch
-CVE-2023-33246,https://github.com/Serendipity-Lucky/CVE-2023-33246
-CVE-2023-33977,https://github.com/mnqazi/CVE-2023-33977
-CVE-2023-34362,https://github.com/deepinstinct/MOVEit_CVE-2023-34362_IOCs
+CVE-2023-28178,https://github.com/MacCVEResearch/CVE-2023-28178-patch
