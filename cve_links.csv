@@ -1,14 +1,3 @@
 CVE,URL
-CVE-2019-1041,https://github.com/5l1v3r1/CVE-2019-1041
-CVE-2020-27786,https://github.com/Trinadh465/linux-4.19.72_CVE-2020-27786
-CVE-2021-42013,https://github.com/cybfar/cve-2021-42013-httpd
-CVE-2021-43617,https://github.com/Sybelle03/CVE-2021-43617
-CVE-2022-25765,https://github.com/PurpleWaveIO/CVE-2022-25765-pdfkit-Exploit-Reverse-Shell
-CVE-2023-10608,https://github.com/b35363/cve-2023-10608-PoC
-CVE-2023-2033,https://github.com/WalccDev/CVE-2023-2033
-CVE-2023-21971,https://github.com/Avento/CVE-2023-21971_Analysis
-CVE-2023-22809,https://github.com/hello4r1end/patch_CVE-2023-22809
-CVE-2023-23638,https://github.com/CKevens/CVE-2023-23638-Tools
-CVE-2023-33246,https://github.com/v0ita/rocketMq_RCE
-CVE-2023-33253,https://github.com/Toxich4/CVE-2023-33253
-CVE-2023-51504,https://github.com/Sybelle03/CVE-2023-51504
+CVE-2022-0439,https://github.com/RandomRobbieBF/CVE-2022-0439
+CVE-2023-32353,https://github.com/86x/CVE-2023-32353-PoC
