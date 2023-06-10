@@ -1,4 +1,4 @@
-Last updated: 2023-06-09 20:03
+Last updated: 2023-06-10 06:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -9113,6 +9113,10 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/e23e/CVE-2023-31606                                                                                                |
 +---------------------------------------------------------------------------------------------------------------------------------------+
+| CVE-2023-3163                                                                                                                         |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/George0Papasotiriou/CVE-2023-3163-SQL-Injection-Prevention                                                         |
++---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-31634                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/XC9409/CVE-2023-31634                                                                                              |
@@ -10900,6 +10904,7 @@ Twitter @James12396379
 | https://github.com/TamiiLambrado/Apache-Struts-CVE-2017-5638-RCE-Mass-Scanner                                                         |
 | https://github.com/invisiblethreat/strutser                                                                                           |
 | https://github.com/lizhi16/CVE-2017-5638                                                                                              |
+| https://github.com/c002/Apache-Struts                                                                                                 |
 | https://github.com/donaldashdown/Common-Vulnerability-and-Exploit                                                                     |
 | https://github.com/pr0x1ma-byte/cybersecurity-struts2                                                                                 |
 | https://github.com/cafnet/apache-struts-v2-CVE-2017-5638                                                                              |
