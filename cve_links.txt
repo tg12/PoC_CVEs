@@ -1,4 +1,4 @@
-Last updated: 2023-06-10 23:03
+Last updated: 2023-06-11 09:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -8692,6 +8692,7 @@ Twitter @James12396379
 | CVE-2023-25157                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/win3zz/CVE-2023-25157                                                                                              |
+| https://github.com/drfabiocastro/geoserver                                                                                            |
 | https://github.com/0x2458bughunt/CVE-2023-25157                                                                                       |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-2516                                                                                                                         |
@@ -8983,6 +8984,8 @@ Twitter @James12396379
 | https://github.com/whalebone7/EagleEye                                                                                                |
 | https://github.com/1337r0j4n/CVE-2023-29489                                                                                           |
 | https://github.com/Abdullah7-ma/CVE-2023-29489                                                                                        |
+| https://github.com/tucommenceapousser/CVE-2023-29489                                                                                  |
+| https://github.com/tucommenceapousser/CVE-2023-29489.py                                                                               |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-29808                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
