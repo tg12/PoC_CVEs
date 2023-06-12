@@ -1,4 +1,4 @@
-Last updated: 2023-06-11 23:03
+Last updated: 2023-06-12 09:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -3011,7 +3011,6 @@ Twitter @James12396379
 | CVE-2022-38694                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader                                                                        |
-| https://github.com/TomKing062/ud710_patch                                                                                             |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-38766                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -8705,6 +8704,7 @@ Twitter @James12396379
 | https://github.com/win3zz/CVE-2023-25157                                                                                              |
 | https://github.com/drfabiocastro/geoserver                                                                                            |
 | https://github.com/0x2458bughunt/CVE-2023-25157                                                                                       |
+| https://github.com/murataydemir/CVE-2023-25157-and-CVE-2023-25158                                                                     |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-2516                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -11462,6 +11462,7 @@ Twitter @James12396379
 | https://github.com/jas502n/CVE-2019-0232                                                                                              |
 | https://github.com/cyy95/CVE-2019-0232-EXP                                                                                            |
 | https://github.com/setrus/CVE-2019-0232                                                                                               |
+| https://github.com/Nicoslo/Windows-exploitation-Apache-Tomcat-8.5.19-CVE-2019-0232-                                                   |
 | https://github.com/Nicoslo/Windows-Exploitation-Web-Server-Tomcat-8.5.39-CVE-2019-0232                                                |
 | https://github.com/jaiguptanick/CVE-2019-0232                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -11596,6 +11597,7 @@ Twitter @James12396379
 | https://github.com/nochemax/bLuEkEeP-GUI                                                                                              |
 | https://github.com/AaronCaiii/CVE-2019-0708-POC                                                                                       |
 | https://github.com/DeathStroke-source/Mass-scanner-for-CVE-2019-0708-RDP-RCE-Exploit                                                  |
+| https://github.com/go-bi/CVE-2019-0708-EXP-Windows                                                                                    |
 | https://github.com/FroydCod3r/CVE-2019-0708                                                                                           |
 | https://github.com/pywc/CVE-2019-0708                                                                                                 |
 | https://github.com/bibo318/kali-CVE-2019-0708-lab                                                                                     |
@@ -12426,6 +12428,7 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/piotrflorczyk/cve-2019-1458_POC                                                                                    |
 | https://github.com/rip1s/CVE-2019-1458                                                                                                |
+| https://github.com/Eternit7/CVE-2019-1458                                                                                             |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2019-14615                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -13281,6 +13284,7 @@ Twitter @James12396379
 | https://github.com/W2Ning/CVE-2019-3396                                                                                               |
 | https://github.com/yuehanked/cve-2019-3396                                                                                            |
 | https://github.com/abdallah-elsharif/cve-2019-3396                                                                                    |
+| https://github.com/46o60/CVE-2019-3396_Confluence                                                                                     |
 | https://github.com/PetrusViet/cve-2019-3396                                                                                           |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2019-3398                                                                                                                         |
