@@ -1,4 +1,4 @@
-Last updated: 2023-06-12 23:04
+Last updated: 2023-06-13 09:03
 Bitcoin: 3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54
 
 
@@ -50,24 +50,24 @@ ETH address: 0x01d23570c34A78380452A4BE9C95bAe439719bAf
 |   39 | Malwareman007                  |          12 |
 |   40 | dorkerdevil                    |          12 |
 |   41 | Mr-xn                          |          12 |
-|   42 | Mesh3l911                      |          11 |
-|   43 | iveresk                        |          11 |
+|   42 | hheeyywweellccoommee           |          11 |
+|   43 | bazad                          |          11 |
 |   44 | CrackerCat                     |          11 |
-|   45 | k4u5h41                        |          11 |
-|   46 | c1ph3rm4st3r                   |          11 |
-|   47 | CKevens                        |          11 |
-|   48 | bazad                          |          11 |
-|   49 | brianwrf                       |          10 |
-|   50 | mhaskar                        |          10 |
-|   51 | securifera                     |          10 |
-|   52 | twseptian                      |          10 |
-|   53 | JacobEbben                     |          10 |
-|   54 | AgainstTheLight                |          10 |
+|   45 | c1ph3rm4st3r                   |          11 |
+|   46 | CKevens                        |          11 |
+|   47 | iveresk                        |          11 |
+|   48 | Mesh3l911                      |          11 |
+|   49 | k4u5h41                        |          11 |
+|   50 | twseptian                      |          10 |
+|   51 | JacobEbben                     |          10 |
+|   52 | AgainstTheLight                |          10 |
+|   53 | mhaskar                        |          10 |
+|   54 | brianwrf                       |          10 |
 |   55 | dnr6419                        |          10 |
 |   56 | p0dalirius                     |          10 |
 |   57 | ZephrFish                      |          10 |
 |   58 | marcinguy                      |          10 |
-|   59 | hheeyywweellccoommee           |          10 |
+|   59 | securifera                     |          10 |
 |   60 | 0xDeku                         |          10 |
 |   61 | jiansiting                     |           9 |
 |   62 | 0vercl0k                       |           9 |
