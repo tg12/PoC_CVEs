@@ -1,4 +1,4 @@
-Last updated: 2023-06-25 23:03
+Last updated: 2023-06-26 09:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -3583,6 +3583,7 @@ Twitter @James12396379
 | https://github.com/kljunowsky/CVE-2022-44268                                                                                          |
 | https://github.com/nfm/heroku-CVE-2022-44268-reproduction                                                                             |
 | https://github.com/betillogalvanfbc/POC-CVE-2022-44268                                                                                |
+| https://github.com/adhikara13/CVE-2022-44268-MagiLeak                                                                                 |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-44311                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -11343,7 +11344,6 @@ Twitter @James12396379
 | CVE-2017-11610                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/ivanitlearning/CVE-2017-11610                                                                                      |
-| https://github.com/yaunsky/CVE-2017-11610                                                                                             |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-11611                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -11384,12 +11384,10 @@ Twitter @James12396379
 | https://github.com/qy1202/https-github.com-Ridter-CVE-2017-11882-                                                                     |
 | https://github.com/j0lama/CVE-2017-11882                                                                                              |
 | https://github.com/chanbin/CVE-2017-11882                                                                                             |
-| https://github.com/littlebin404/CVE-2017-11882                                                                                        |
 | https://github.com/ekgg/Overflow-Demo-CVE-2017-11882                                                                                  |
 | https://github.com/HaoJame/CVE-2017-11882                                                                                             |
 | https://github.com/5l1v3r1/rtfkit                                                                                                     |
 | https://github.com/ActorExpose/CVE-2017-11882                                                                                         |
-| https://github.com/Retr0-code/SignHere                                                                                                |
 | https://github.com/lisinan988/CVE-2017-11882-exp                                                                                      |
 | https://github.com/tzwlhack/CVE-2017-11882                                                                                            |
 | https://github.com/Sunqiz/CVE-2017-11882-reproduction                                                                                 |
@@ -11438,7 +11436,6 @@ Twitter @James12396379
 | https://github.com/cved-sources/cve-2017-12615                                                                                        |
 | https://github.com/ianxtianxt/CVE-2017-12615                                                                                          |
 | https://github.com/cyberharsh/Tomcat-CVE-2017-12615                                                                                   |
-| https://github.com/w0x68y/CVE-2017-12615-EXP                                                                                          |
 | https://github.com/tpt11fb/AttackTomcat                                                                                               |
 | https://github.com/xiaokp7/Tomcat_PUT_GUI_EXP                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -11612,7 +11609,6 @@ Twitter @James12396379
 | CVE-2017-1635                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/emcalv/tivoli-poc                                                                                                  |
-| https://github.com/bcdannyboy/cve-2017-1635-PoC                                                                                       |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-16524                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -11629,10 +11625,6 @@ Twitter @James12396379
 | CVE-2017-16568                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/dewankpant/CVE-2017-16568                                                                                          |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-| CVE-2017-16651                                                                                                                        |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/ropbear/CVE-2017-16651                                                                                             |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-16744                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -11663,7 +11655,6 @@ Twitter @James12396379
 | https://github.com/vnik5287/CVE-2017-16995                                                                                            |
 | https://github.com/littlebin404/CVE-2017-16995                                                                                        |
 | https://github.com/Lumindu/CVE-2017-16995-Linux-Kernel---BPF-Sign-Extension-Local-Privilege-Escalation-                               |
-| https://github.com/ph4ntonn/CVE-2017-16995                                                                                            |
 | https://github.com/ivilpez/cve-2017-16995.c                                                                                           |
 | https://github.com/fei9747/CVE-2017-16995                                                                                             |
 | https://github.com/anldori/CVE-2017-16995                                                                                             |
@@ -12182,7 +12173,6 @@ Twitter @James12396379
 | https://github.com/cyberk1w1/CVE-2017-7529                                                                                            |
 | https://github.com/cyberharsh/nginx-CVE-2017-7529                                                                                     |
 | https://github.com/daehee/nginx-overflow                                                                                              |
-| https://github.com/ninjabuster/exploit-nginx-1.10.3                                                                                   |
 | https://github.com/fardeen-ahmed/Remote-Integer-Overflow-Vulnerability                                                                |
 | https://github.com/mo3zj/Nginx-Remote-Integer-Overflow-Vulnerability                                                                  |
 | https://github.com/fu2x2000/CVE-2017-7529-Nginx---Remote-Integer-Overflow-Exploit                                                     |
@@ -12209,8 +12199,6 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/JrDw0/CVE-2017-7921-EXP                                                                                            |
 | https://github.com/BurnyMcDull/CVE-2017-7921                                                                                          |
-| https://github.com/MisakaMikato/cve-2017-7921-golang                                                                                  |
-| https://github.com/chrisjd20/hikvision_CVE-2017-7921_auth_bypass_config_decryptor                                                     |
 | https://github.com/p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor                                                          |
 | https://github.com/201646613/CVE-2017-7921                                                                                            |
 | https://github.com/inj3ction/CVE-2017-7921-EXP                                                                                        |
@@ -12357,7 +12345,6 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-9248                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/bao7uo/dp_crypto                                                                                                   |
 | https://github.com/capt-meelo/Telewreck                                                                                               |
 | https://github.com/ictnamanh/CVE-2017-9248                                                                                            |
 | https://github.com/ZhenwarX/Telerik-CVE-2017-9248-PoC                                                                                 |
@@ -15560,7 +15547,7 @@ Twitter @James12396379
 | https://github.com/FilipStudeny/-CVE-2014-6271-Shellshock-Remote-Command-Injection-                                                   |
 | https://github.com/mritunjay-k/CVE-2014-6271                                                                                          |
 | https://github.com/Brandaoo/CVE-2014-6271                                                                                             |
-| https://github.com/Darkrai-404/CVE-2014-6271-Shellshock-Vulnerability                                                                 |
+| https://github.com/hheeyywweellccoommee/CVE-2014-6271-Shellshock-Vulnerability-vazft                                                  |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2014-6287                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
