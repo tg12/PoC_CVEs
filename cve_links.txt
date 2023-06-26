@@ -1,4 +1,4 @@
-Last updated: 2023-06-26 09:03
+Last updated: 2023-06-26 23:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -5111,10 +5111,6 @@ Twitter @James12396379
 | https://github.com/hnthuan1998/CVE-2021-24160                                                                                         |
 | https://github.com/hnthuan1998/Exploit-CVE-2021-24160                                                                                 |
 +---------------------------------------------------------------------------------------------------------------------------------------+
-| CVE-2021-24307                                                                                                                        |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/darkpills/CVE-2021-24307-all-in-one-seo-pack-admin-rce                                                             |
-+---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-24347                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/huydoppa/CVE-2021-24347-                                                                                           |
@@ -5277,7 +5273,7 @@ Twitter @James12396379
 | https://github.com/1ZRR4H/CVE-2021-26084                                                                                              |
 | https://github.com/GlennPegden2/cve-2021-26084-confluence                                                                             |
 | https://github.com/toowoxx/docker-confluence-patched                                                                                  |
-| https://github.com/nizarbamida/CVE-2021-26084-patch-                                                                                  |
+| https://github.com/nizar0x1f/CVE-2021-26084-patch-                                                                                    |
 | https://github.com/dorkerdevil/CVE-2021-26084                                                                                         |
 | https://github.com/ludy-dev/CVE-2021-26084_PoC                                                                                        |
 | https://github.com/wdjcy/CVE-2021-26084                                                                                               |
@@ -5596,10 +5592,6 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/lntrx/CVE-2021-28663                                                                                               |
 +---------------------------------------------------------------------------------------------------------------------------------------+
-| CVE-2021-28750                                                                                                                        |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/PfalzPrince/CVE-2021-28750-site                                                                                    |
-+---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-29003                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/jaysharma786/CVE-2021-29003                                                                                        |
@@ -5768,10 +5760,6 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/jsherman212/iomfb-exploit                                                                                          |
 | https://github.com/30440r/gex                                                                                                         |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-| CVE-2021-30853                                                                                                                        |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/shubham0d/CVE-2021-30853                                                                                           |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-30858                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -7485,6 +7473,7 @@ Twitter @James12396379
 | https://github.com/mightysai1997/cve-2021-42013.get                                                                                   |
 | https://github.com/12345qwert123456/CVE-2021-42013                                                                                    |
 | https://github.com/cybfar/cve-2021-42013-httpd                                                                                        |
+| https://github.com/birdlinux/CVE-2021-42013                                                                                           |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-4204                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -9607,11 +9596,12 @@ Twitter @James12396379
 | https://github.com/little44n1o/cve-2023-32243                                                                                         |
 | https://github.com/gbrsh/CVE-2023-32243                                                                                               |
 | https://github.com/RandomRobbieBF/CVE-2023-32243                                                                                      |
-| https://github.com/manavvedawala/CVE-2023-32243-POC                                                                                   |
-| https://github.com/manavvedawala/CVE-2023-32243-proof-of-concept                                                                      |
+| https://github.com/manavvedawala2/CVE-2023-32243-POC                                                                                  |
+| https://github.com/manavvedawala2/CVE-2023-32243-proof-of-concept                                                                     |
 | https://github.com/hheeyywweellccoommee/Mass-CVE-2023-32243-kcpqa                                                                     |
 | https://github.com/YouGina/CVE-2023-32243                                                                                             |
 | https://github.com/thatonesecguy/Wordpress-Vulnerability-Identification-Scripts                                                       |
+| https://github.com/manavvedawala/CVE-2023-32243-proof-of-concept                                                                      |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-32315                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -11344,6 +11334,7 @@ Twitter @James12396379
 | CVE-2017-11610                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/ivanitlearning/CVE-2017-11610                                                                                      |
+| https://github.com/yaunsky/CVE-2017-11610                                                                                             |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-11611                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -11384,10 +11375,12 @@ Twitter @James12396379
 | https://github.com/qy1202/https-github.com-Ridter-CVE-2017-11882-                                                                     |
 | https://github.com/j0lama/CVE-2017-11882                                                                                              |
 | https://github.com/chanbin/CVE-2017-11882                                                                                             |
+| https://github.com/littlebin404/CVE-2017-11882                                                                                        |
 | https://github.com/ekgg/Overflow-Demo-CVE-2017-11882                                                                                  |
 | https://github.com/HaoJame/CVE-2017-11882                                                                                             |
 | https://github.com/5l1v3r1/rtfkit                                                                                                     |
 | https://github.com/ActorExpose/CVE-2017-11882                                                                                         |
+| https://github.com/Retr0-code/SignHere                                                                                                |
 | https://github.com/lisinan988/CVE-2017-11882-exp                                                                                      |
 | https://github.com/tzwlhack/CVE-2017-11882                                                                                            |
 | https://github.com/Sunqiz/CVE-2017-11882-reproduction                                                                                 |
@@ -11436,6 +11429,7 @@ Twitter @James12396379
 | https://github.com/cved-sources/cve-2017-12615                                                                                        |
 | https://github.com/ianxtianxt/CVE-2017-12615                                                                                          |
 | https://github.com/cyberharsh/Tomcat-CVE-2017-12615                                                                                   |
+| https://github.com/w0x68y/CVE-2017-12615-EXP                                                                                          |
 | https://github.com/tpt11fb/AttackTomcat                                                                                               |
 | https://github.com/xiaokp7/Tomcat_PUT_GUI_EXP                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -11609,6 +11603,7 @@ Twitter @James12396379
 | CVE-2017-1635                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/emcalv/tivoli-poc                                                                                                  |
+| https://github.com/bcdannyboy/cve-2017-1635-PoC                                                                                       |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-16524                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -11655,6 +11650,7 @@ Twitter @James12396379
 | https://github.com/vnik5287/CVE-2017-16995                                                                                            |
 | https://github.com/littlebin404/CVE-2017-16995                                                                                        |
 | https://github.com/Lumindu/CVE-2017-16995-Linux-Kernel---BPF-Sign-Extension-Local-Privilege-Escalation-                               |
+| https://github.com/ph4ntonn/CVE-2017-16995                                                                                            |
 | https://github.com/ivilpez/cve-2017-16995.c                                                                                           |
 | https://github.com/fei9747/CVE-2017-16995                                                                                             |
 | https://github.com/anldori/CVE-2017-16995                                                                                             |
@@ -12173,6 +12169,7 @@ Twitter @James12396379
 | https://github.com/cyberk1w1/CVE-2017-7529                                                                                            |
 | https://github.com/cyberharsh/nginx-CVE-2017-7529                                                                                     |
 | https://github.com/daehee/nginx-overflow                                                                                              |
+| https://github.com/ninjabuster/exploit-nginx-1.10.3                                                                                   |
 | https://github.com/fardeen-ahmed/Remote-Integer-Overflow-Vulnerability                                                                |
 | https://github.com/mo3zj/Nginx-Remote-Integer-Overflow-Vulnerability                                                                  |
 | https://github.com/fu2x2000/CVE-2017-7529-Nginx---Remote-Integer-Overflow-Exploit                                                     |
@@ -12199,6 +12196,8 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/JrDw0/CVE-2017-7921-EXP                                                                                            |
 | https://github.com/BurnyMcDull/CVE-2017-7921                                                                                          |
+| https://github.com/MisakaMikato/cve-2017-7921-golang                                                                                  |
+| https://github.com/chrisjd20/hikvision_CVE-2017-7921_auth_bypass_config_decryptor                                                     |
 | https://github.com/p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor                                                          |
 | https://github.com/201646613/CVE-2017-7921                                                                                            |
 | https://github.com/inj3ction/CVE-2017-7921-EXP                                                                                        |
@@ -12345,6 +12344,7 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-9248                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/bao7uo/dp_crypto                                                                                                   |
 | https://github.com/capt-meelo/Telewreck                                                                                               |
 | https://github.com/ictnamanh/CVE-2017-9248                                                                                            |
 | https://github.com/ZhenwarX/Telerik-CVE-2017-9248-PoC                                                                                 |
@@ -20906,6 +20906,7 @@ Twitter @James12396379
 | https://github.com/ambalabanov/CVE-2020-9496                                                                                          |
 | https://github.com/s4dbrd/CVE-2020-9496                                                                                               |
 | https://github.com/Ly0nt4r/CVE-2020-9496                                                                                              |
+| https://github.com/birdlinux/CVE-2020-9496                                                                                            |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2020-9547                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
