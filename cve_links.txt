@@ -1,4 +1,4 @@
-Last updated: 2023-06-28 09:04
+Last updated: 2023-06-28 23:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -8207,7 +8207,6 @@ Twitter @James12396379
 | https://github.com/Vulnmachines/log4jshell_CVE-2021-44228                                                                             |
 | https://github.com/mr-vill4in/log4j-fuzzer                                                                                            |
 | https://github.com/nix-xin/vuln4japi                                                                                                  |
-| https://github.com/cryptoforcecommand/log4j-cve-2021-44228                                                                            |
 | https://github.com/maximofernandezriera/CVE-2021-44228                                                                                |
 | https://github.com/jxerome/log4shell                                                                                                  |
 | https://github.com/solitarysp/Log4j-CVE-2021-44228                                                                                    |
@@ -8652,6 +8651,7 @@ Twitter @James12396379
 | https://github.com/CKevens/CVE-2023-0386                                                                                              |
 | https://github.com/hshivhare67/kernel_v4.19.72_CVE-2023-0386                                                                          |
 | https://github.com/sxlmnwb/CVE-2023-0386                                                                                              |
+| https://github.com/Fanxiaoyao66/CVE-2023-0386                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-0461                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -9191,7 +9191,7 @@ Twitter @James12396379
 | CVE-2023-27350                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/MaanVader/CVE-2023-27350-POC                                                                                       |
-| https://github.com/TamingSariMY/CVE-2023-27350-POC                                                                                    |
+| https://github.com/0ximan1337/CVE-2023-27350-POC                                                                                      |
 | https://github.com/horizon3ai/CVE-2023-27350                                                                                          |
 | https://github.com/adhikara13/CVE-2023-27350                                                                                          |
 | https://github.com/Pari-Malam/CVE-2023-27350                                                                                          |
@@ -14277,7 +14277,6 @@ Twitter @James12396379
 | https://github.com/leerina/CVE-2019-2725                                                                                              |
 | https://github.com/zhusx110/cve-2019-2725                                                                                             |
 | https://github.com/lufeirider/CVE-2019-2725                                                                                           |
-| https://github.com/CVCLabs/cve-2019-2725                                                                                              |
 | https://github.com/TopScrew/CVE-2019-2725                                                                                             |
 | https://github.com/welove88888/CVE-2019-2725                                                                                          |
 | https://github.com/jiansiting/CVE-2019-2725                                                                                           |
@@ -16855,6 +16854,7 @@ Twitter @James12396379
 | https://github.com/afine-com/CVE-2018-25031                                                                                           |
 | https://github.com/kriso4os/CVE-2018-25031                                                                                            |
 | https://github.com/rafaelcintralopes/SwaggerUI-CVE-2018-25031                                                                         |
+| https://github.com/mathis2001/CVE-2018-25031                                                                                          |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2018-25032                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
