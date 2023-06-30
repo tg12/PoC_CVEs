@@ -1,4 +1,4 @@
-Last updated: 2023-06-29 23:03
+Last updated: 2023-06-30 09:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -20956,10 +20956,13 @@ Twitter @James12396379
 | https://github.com/mikesplain/CVE-2015-0235-cookbook                                                                                  |
 | https://github.com/aaronfay/CVE-2015-0235-test                                                                                        |
 | https://github.com/piyokango/ghost                                                                                                    |
+| https://github.com/mholzinger/CVE-2015-0235_GHOST                                                                                     |
 | https://github.com/adherzog/ansible-CVE-2015-0235-GHOST                                                                               |
 | https://github.com/favoretti/lenny-libc6                                                                                              |
+| https://github.com/nickanderson/cfengine-CVE_2015_0235                                                                                |
 | https://github.com/koudaiii-archives/cookbook-update-glibc                                                                            |
 | https://github.com/F88/ghostbusters15                                                                                                 |
+| https://github.com/tobyzxj/CVE-2015-0235                                                                                              |
 | https://github.com/makelinux/CVE-2015-0235-workaround                                                                                 |
 | https://github.com/arm13/ghost_exploit                                                                                                |
 | https://github.com/alanmeyer/CVE-glibc                                                                                                |
