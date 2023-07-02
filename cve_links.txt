@@ -1,4 +1,4 @@
-Last updated: 2023-07-02 09:03
+Last updated: 2023-07-02 23:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -3584,6 +3584,7 @@ Twitter @James12396379
 | https://github.com/nfm/heroku-CVE-2022-44268-reproduction                                                                             |
 | https://github.com/betillogalvanfbc/POC-CVE-2022-44268                                                                                |
 | https://github.com/adhikara13/CVE-2022-44268-MagiLeak                                                                                 |
+| https://github.com/bhavikmalhotra/CVE-2022-44268-Exploit                                                                              |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-44311                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
