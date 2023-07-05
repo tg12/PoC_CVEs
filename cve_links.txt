@@ -1,4 +1,4 @@
-Last updated: 2023-07-04 23:03
+Last updated: 2023-07-05 09:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -9643,6 +9643,7 @@ Twitter @James12396379
 | https://github.com/CKevens/CVE-2023-33246                                                                                             |
 | https://github.com/cr1me0/rocketMq_RCE                                                                                                |
 | https://github.com/hheeyywweellccoommee/CVE-2023-33246-rnkku                                                                          |
+| https://github.com/Devil0ll/CVE-2023-33246                                                                                            |
 | https://github.com/hheeyywweellccoommee/CVE-2023-33246-dgjfd                                                                          |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-33253                                                                                                                        |
@@ -12193,6 +12194,7 @@ Twitter @James12396379
 | https://github.com/p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor                                                          |
 | https://github.com/201646613/CVE-2017-7921                                                                                            |
 | https://github.com/inj3ction/CVE-2017-7921-EXP                                                                                        |
+| https://github.com/krypton612/hikivision                                                                                              |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-7998                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
