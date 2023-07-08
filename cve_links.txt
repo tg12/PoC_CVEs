@@ -1,4 +1,4 @@
-Last updated: 2023-07-08 09:03
+Last updated: 2023-07-08 23:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -3893,7 +3893,6 @@ Twitter @James12396379
 | https://github.com/zhuowei/MacDirtyCowDemo                                                                                            |
 | https://github.com/straight-tamago/NoCameraSound                                                                                      |
 | https://github.com/ginsudev/WDBFontOverwrite                                                                                          |
-| https://github.com/spinfal/CVE-2022-46689                                                                                             |
 | https://github.com/mineek/FileManager                                                                                                 |
 | https://github.com/straight-tamago/NoHomeBar                                                                                          |
 | https://github.com/straight-tamago/DockTransparent                                                                                    |
@@ -9587,6 +9586,7 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/RandomRobbieBF/CVE-2023-2982                                                                                       |
 | https://github.com/H4K6/CVE-2023-2982-POC                                                                                             |
+| https://github.com/LoaiEsam37/CVE-2023-2982                                                                                           |
 | https://github.com/hheeyywweellccoommee/CVE-2023-2982-ugdqh                                                                           |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-29839                                                                                                                        |
@@ -9907,6 +9907,10 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/tucommenceapousser/CVE-2023-33617                                                                                  |
 | https://github.com/hheeyywweellccoommee/CVE-2023-33617-hugnc                                                                          |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| CVE-2023-33668                                                                                                                        |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/lodi-g/CVE-2023-33668                                                                                              |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-33730                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
