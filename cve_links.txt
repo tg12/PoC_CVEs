@@ -1,4 +1,4 @@
-Last updated: 2023-08-07 23:03
+Last updated: 2023-08-08 09:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -5124,7 +5124,6 @@ Twitter @James12396379
 | https://github.com/pizza-power/Golang-CVE-2021-22205-POC                                                                              |
 | https://github.com/DIVD-NL/GitLab-cve-2021-22205-nse                                                                                  |
 | https://github.com/w0x68y/Gitlab-CVE-2021-22205                                                                                       |
-| https://github.com/GitLab-Red-Team/cve-hash-harvester                                                                                 |
 | https://github.com/honypot/CVE-2021-22205                                                                                             |
 | https://github.com/momika233/cve-2021-22205-GitLab-13.10.2---Remote-Code-Execution-RCE-Unauthenticated-                               |
 | https://github.com/keven1z/CVE-2021-22205                                                                                             |
@@ -12370,7 +12369,7 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-15277                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/tacticthreat/ImageMagick-CVE-2017-15277                                                                            |
+| https://github.com/0xR0M/ImageMagick-CVE-2017-15277                                                                                   |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-15303                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -15696,6 +15695,7 @@ Twitter @James12396379
 | https://github.com/Sp4ceDogy/CVE-2019-9053.python3                                                                                    |
 | https://github.com/im-suman-roy/CVE-2019-9053                                                                                         |
 | https://github.com/bthnrml/guncel-cve-2019-9053.py                                                                                    |
+| https://github.com/kahluri/CVE-2019-9053                                                                                              |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2019-9081                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
