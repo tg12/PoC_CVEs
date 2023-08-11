@@ -1,4 +1,4 @@
-Last updated: 2023-08-10 23:03
+Last updated: 2023-08-11 09:03
 Bitcoin: 3QjWqhQbHdHgWeYHTpmorP8Pe1wgDjJy54
 
 
@@ -40,8 +40,8 @@ ETH address: 0x01d23570c34A78380452A4BE9C95bAe439719bAf
 |   29 | mpgn                           |          18 |
 |   30 | puckiestyle                    |          17 |
 |   31 | bigzooooz                      |          16 |
-|   32 | jra89                          |          15 |
-|   33 | horizon3ai                     |          15 |
+|   32 | horizon3ai                     |          16 |
+|   33 | jra89                          |          15 |
 |   34 | 0x00-0x00                      |          14 |
 |   35 | Malwareman007                  |          14 |
 |   36 | bypazs                         |          14 |
