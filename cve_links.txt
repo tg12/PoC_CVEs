@@ -1,4 +1,4 @@
-Last updated: 2023-08-14 09:03
+Last updated: 2023-08-14 23:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -10397,6 +10397,7 @@ Twitter @James12396379
 | https://github.com/KR0N-SECURITY/CVE-2023-3519                                                                                        |
 | https://github.com/passwa11/CVE-2023-3519                                                                                             |
 | https://github.com/rwincey/cve-2023-3519                                                                                              |
+| https://github.com/mandiant/citrix-ioc-scanner-cve-2023-3519                                                                          |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-35744                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -12875,7 +12876,6 @@ Twitter @James12396379
 | https://github.com/Bijaye/intel_amt_bypass                                                                                            |
 | https://github.com/embedi/amt_auth_bypass_poc                                                                                         |
 | https://github.com/TheWay-hue/CVE-2017-5689-Checker                                                                                   |
-| https://github.com/odx686/CVE-2017-5689                                                                                               |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-5693                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
