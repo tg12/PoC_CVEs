@@ -1,4 +1,4 @@
-Last updated: 2023-08-22 09:03
+Last updated: 2023-08-22 23:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -1407,6 +1407,7 @@ Twitter @James12396379
 | https://github.com/Pflegusch/CVE-2022-24637                                                                                           |
 | https://github.com/0xM4hm0ud/CVE-2022-24637                                                                                           |
 | https://github.com/c0derpwner/HTB-pwned                                                                                               |
+| https://github.com/0xRyuk/CVE-2022-24637                                                                                              |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-24644                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -10768,10 +10769,6 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/sahar042/CVE-2023-40297                                                                                            |
 +---------------------------------------------------------------------------------------------------------------------------------------+
-| CVE-2023-40477                                                                                                                        |
-+---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/whalersplonk/CVE-2023-40477                                                                                        |
-+---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-4174                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/d0rb/CVE-2023-4174                                                                                                 |
@@ -16573,14 +16570,11 @@ Twitter @James12396379
 | https://github.com/dlitz/bash-cve-2014-6271-fixes                                                                                     |
 | https://github.com/npm/ansible-bashpocalypse                                                                                          |
 | https://github.com/ryancnelson/patched-bash-4.3                                                                                       |
-| https://github.com/jblaine/cookbook-bash-CVE-2014-6271                                                                                |
-| https://github.com/rrreeeyyy/cve-2014-6271-spec                                                                                       |
 | https://github.com/scottjpack/shellshock_scanner                                                                                      |
 | https://github.com/Anklebiter87/Cgi-bin_bash_Reverse                                                                                  |
 | https://github.com/justzx2011/bash-up                                                                                                 |
 | https://github.com/mattclegg/CVE-2014-6271                                                                                            |
 | https://github.com/ilismal/Nessus_CVE-2014-6271_check                                                                                 |
-| https://github.com/RainMak3r/Rainstorm                                                                                                |
 | https://github.com/gabemarshall/shocknaww                                                                                             |
 | https://github.com/woltage/CVE-2014-6271                                                                                              |
 | https://github.com/ariarijp/vagrant-shellshock                                                                                        |
