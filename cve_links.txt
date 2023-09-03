@@ -1,4 +1,4 @@
-Last updated: 2023-09-02 23:03
+Last updated: 2023-09-03 09:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -8063,6 +8063,7 @@ Twitter @James12396379
 | https://github.com/mauricelambert/LabAutomationCVE-2021-43798                                                                         |
 | https://github.com/FAOG99/GrafanaDirectoryScanner                                                                                     |
 | https://github.com/nuker/CVE-2021-43798                                                                                               |
+| https://github.com/victorhorowitz/grafana-exploit-CVE-2021-43798                                                                      |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-43799                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -12261,6 +12262,7 @@ Twitter @James12396379
 | https://github.com/Phantomlancer123/CVE-2017-0199                                                                                     |
 | https://github.com/BRAINIAC22/CVE-2017-0199                                                                                           |
 | https://github.com/Sunqiz/CVE-2017-0199-reprofuction                                                                                  |
+| https://github.com/0xCoolAnon/CVE-2017-0199-v5.0                                                                                      |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-0204                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
