@@ -1,4 +1,4 @@
-Last updated: 2023-09-17 09:03
+Last updated: 2023-09-17 23:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -286,6 +286,7 @@ Twitter @James12396379
 | https://github.com/jonathanbest7/cve-2022-0847                                                                                        |
 | https://github.com/0xeremus/dirty-pipe-poc                                                                                            |
 | https://github.com/joeymeech/CVE-2022-0847-Exploit-Implementation                                                                     |
+| https://github.com/pashayogi/DirtyPipe                                                                                                |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-0848                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -2680,6 +2681,10 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/breakpointHQ/CVE-2022-32883                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
+| CVE-2022-32947                                                                                                                        |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/asahilina/agx-exploit                                                                                              |
++---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2022-32988                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/FedericoHeichou/CVE-2022-32988                                                                                     |
@@ -3956,7 +3961,7 @@ Twitter @James12396379
 | https://github.com/BKreisel/CVE-2022-46169                                                                                            |
 | https://github.com/Rickster5555/EH2-PoC                                                                                               |
 | https://github.com/antisecc/CVE-2022-46169                                                                                            |
-| https://github.com/4m4Sec/CVE-2022-46169                                                                                              |
+| https://github.com/dawnl3ss/CVE-2022-46169                                                                                            |
 | https://github.com/a1665454764/CVE-2022-46169                                                                                         |
 | https://github.com/0xZon/CVE-2022-46169-Exploit                                                                                       |
 | https://github.com/copyleftdev/PricklyPwn                                                                                             |
@@ -10288,7 +10293,7 @@ Twitter @James12396379
 | https://github.com/z-jxy/keepass_dump                                                                                                 |
 | https://github.com/LeDocteurDesBits/cve-2023-32784                                                                                    |
 | https://github.com/hau-zy/KeePass-dump-py                                                                                             |
-| https://github.com/4m4Sec/CVE-2023-32784                                                                                              |
+| https://github.com/dawnl3ss/CVE-2023-32784                                                                                            |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-32961                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -10938,7 +10943,6 @@ Twitter @James12396379
 | https://github.com/K3rnel-Dev/WinrarExploit                                                                                           |
 | https://github.com/Fa1c0n35/CVE-2023-38831-winrar-exploit                                                                             |
 | https://github.com/xaitax/WinRAR-CVE-2023-38831                                                                                       |
-| https://github.com/LuxCodeDev/CVE-2023-38831_WinRAR                                                                                   |
 | https://github.com/GOTonyGO/CVE-2023-38831-winrar                                                                                     |
 | https://github.com/Malwareman007/CVE-2023-38831                                                                                       |
 | https://github.com/ameerpornillos/CVE-2023-38831-WinRAR-Exploit                                                                       |
