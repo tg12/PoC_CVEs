@@ -1,4 +1,4 @@
-Last updated: 2023-09-19 09:03
+Last updated: 2023-09-19 23:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -10710,6 +10710,10 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/tagomaru/CVE-2023-36281                                                                                            |
 +---------------------------------------------------------------------------------------------------------------------------------------+
+| CVE-2023-36319                                                                                                                        |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/Lowalu/CVE-2023-36319                                                                                              |
++---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-3640                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/pray77/CVE-2023-3640                                                                                               |
@@ -10961,6 +10965,7 @@ Twitter @James12396379
 | https://github.com/ameerpornillos/CVE-2023-38831-WinRAR-Exploit                                                                       |
 | https://github.com/IMHarman/CVE-2023-38831                                                                                            |
 | https://github.com/an040702/CVE-2023-38831                                                                                            |
+| https://github.com/elefantesagradodeluzinfinita/cve-2023-38831                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-38836                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -15150,7 +15155,6 @@ Twitter @James12396379
 | https://github.com/theRealFr13nd/CVE-2019-16278-Nostromo_1.9.6-RCE                                                                    |
 | https://github.com/Kr0ff/cve-2019-16278                                                                                               |
 | https://github.com/NHPT/CVE-2019-16278                                                                                                |
-| https://github.com/keshiba/cve-2019-16278                                                                                             |
 | https://github.com/crypticdante/CVE-2019-16278                                                                                        |
 | https://github.com/alexander-fernandes/CVE-2019-16278                                                                                 |
 | https://github.com/FredBrave/CVE-2019-16278-Nostromo-1.9.6-RCE                                                                        |
@@ -19539,10 +19543,7 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2020-0601                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
-| https://github.com/nissan-sudo/CVE-2020-0601                                                                                          |
 | https://github.com/0xxon/cve-2020-0601                                                                                                |
-| https://github.com/SherlockSec/CVE-2020-0601                                                                                          |
-| https://github.com/JPurrier/CVE-2020-0601                                                                                             |
 | https://github.com/0xxon/cve-2020-0601-plugin                                                                                         |
 | https://github.com/ly4k/CurveBall                                                                                                     |
 | https://github.com/kudelskisecurity/chainoffools                                                                                      |
@@ -19551,7 +19552,6 @@ Twitter @James12396379
 | https://github.com/saleemrashid/badecparams                                                                                           |
 | https://github.com/0xxon/cve-2020-0601-utils                                                                                          |
 | https://github.com/Doug-Moody/Windows10_Cumulative_Updates_PowerShell                                                                 |
-| https://github.com/MarkusZehnle/CVE-2020-0601                                                                                         |
 | https://github.com/YoannDqr/CVE-2020-0601                                                                                             |
 | https://github.com/thimelp/cve-2020-0601-Perl                                                                                         |
 | https://github.com/dlee35/curveball_lua                                                                                               |
@@ -21213,7 +21213,6 @@ Twitter @James12396379
 | CVE-2020-2551                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/0xn0ne/weblogicScanner                                                                                             |
-| https://github.com/jas502n/CVE-2020-2551                                                                                              |
 | https://github.com/hktalent/CVE-2020-2551                                                                                             |
 | https://github.com/Y4er/CVE-2020-2551                                                                                                 |
 | https://github.com/zzwlpx/weblogicPoc                                                                                                 |
@@ -22470,7 +22469,7 @@ Twitter @James12396379
 | CVE-2020-9715                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/lsw29475/CVE-2020-9715                                                                                             |
-| https://github.com/WonjunChun/CVE-2020-9715                                                                                           |
+| https://github.com/wonjunchun/CVE-2020-9715                                                                                           |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2020-9758                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
