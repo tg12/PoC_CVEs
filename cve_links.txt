@@ -1,4 +1,4 @@
-Last updated: 2023-09-19 23:03
+Last updated: 2023-09-20 09:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -8954,6 +8954,10 @@ Twitter @James12396379
 | https://github.com/TurtleARM/CVE-2023-0179-PoC                                                                                        |
 | https://github.com/H4K6/CVE-2023-0179-PoC                                                                                             |
 +---------------------------------------------------------------------------------------------------------------------------------------+
+| CVE-2023-0255                                                                                                                         |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/codeb0ss/CVE-2023-0255-PoC                                                                                         |
++---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-0264                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/twwd/CVE-2023-0264                                                                                                 |
@@ -10657,6 +10661,10 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/datackmy/FallingSkies-CVE-2023-35885                                                                               |
 +---------------------------------------------------------------------------------------------------------------------------------------+
+| CVE-2023-36109                                                                                                                        |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/Limesss/CVE-2023-36109                                                                                             |
++---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-36123                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/9Bakabaka/CVE-2023-36123                                                                                           |
@@ -10734,6 +10742,7 @@ Twitter @James12396379
 | CVE-2023-36844                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/watchtowrlabs/juniper-rce_cve-2023-36844                                                                           |
+| https://github.com/Pari-Malam/CVE-2023-36844                                                                                          |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-36845                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -13158,7 +13167,7 @@ Twitter @James12396379
 | https://github.com/1337g/CVE-2017-17562                                                                                               |
 | https://github.com/ivanitlearning/CVE-2017-17562                                                                                      |
 | https://github.com/crispy-peppers/Goahead-CVE-2017-17562                                                                              |
-| https://github.com/fssecur3/goahead-rce-exploit                                                                                       |
+| https://github.com/nu11pointer/goahead-rce-exploit                                                                                    |
 | https://github.com/freitzzz/bash-CVE-2017-17562                                                                                       |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-17692                                                                                                                        |
@@ -15155,6 +15164,7 @@ Twitter @James12396379
 | https://github.com/theRealFr13nd/CVE-2019-16278-Nostromo_1.9.6-RCE                                                                    |
 | https://github.com/Kr0ff/cve-2019-16278                                                                                               |
 | https://github.com/NHPT/CVE-2019-16278                                                                                                |
+| https://github.com/keshiba/cve-2019-16278                                                                                             |
 | https://github.com/crypticdante/CVE-2019-16278                                                                                        |
 | https://github.com/alexander-fernandes/CVE-2019-16278                                                                                 |
 | https://github.com/FredBrave/CVE-2019-16278-Nostromo-1.9.6-RCE                                                                        |
@@ -19543,7 +19553,10 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2020-0601                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/nissan-sudo/CVE-2020-0601                                                                                          |
 | https://github.com/0xxon/cve-2020-0601                                                                                                |
+| https://github.com/SherlockSec/CVE-2020-0601                                                                                          |
+| https://github.com/JPurrier/CVE-2020-0601                                                                                             |
 | https://github.com/0xxon/cve-2020-0601-plugin                                                                                         |
 | https://github.com/ly4k/CurveBall                                                                                                     |
 | https://github.com/kudelskisecurity/chainoffools                                                                                      |
@@ -19552,6 +19565,7 @@ Twitter @James12396379
 | https://github.com/saleemrashid/badecparams                                                                                           |
 | https://github.com/0xxon/cve-2020-0601-utils                                                                                          |
 | https://github.com/Doug-Moody/Windows10_Cumulative_Updates_PowerShell                                                                 |
+| https://github.com/MarkusZehnle/CVE-2020-0601                                                                                         |
 | https://github.com/YoannDqr/CVE-2020-0601                                                                                             |
 | https://github.com/thimelp/cve-2020-0601-Perl                                                                                         |
 | https://github.com/dlee35/curveball_lua                                                                                               |
@@ -21213,6 +21227,7 @@ Twitter @James12396379
 | CVE-2020-2551                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/0xn0ne/weblogicScanner                                                                                             |
+| https://github.com/jas502n/CVE-2020-2551                                                                                              |
 | https://github.com/hktalent/CVE-2020-2551                                                                                             |
 | https://github.com/Y4er/CVE-2020-2551                                                                                                 |
 | https://github.com/zzwlpx/weblogicPoc                                                                                                 |
