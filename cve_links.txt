@@ -1,4 +1,4 @@
-Last updated: 2024-04-21 09:03
+Last updated: 2024-04-22 09:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -7606,7 +7606,6 @@ Twitter @James12396379
 | https://github.com/TanmoyG1800/CVE-2021-4034                                                                                          |
 | https://github.com/CronoX1/CVE-2021-4034                                                                                              |
 | https://github.com/supportingmx/cve-2021-4034                                                                                         |
-| https://github.com/A1vinSmith/CVE-2021-4034                                                                                           |
 | https://github.com/HellGateCorp/pwnkit                                                                                                |
 | https://github.com/Silencecyber/cve-2021-4034                                                                                         |
 | https://github.com/Geni0r/cve-2021-4034-poc                                                                                           |
@@ -9596,7 +9595,7 @@ Twitter @James12396379
 | https://github.com/mr-r3b00t/CVE-2023-20198-IOS-XE-Scanner                                                                            |
 | https://github.com/ohlawd/CVE-2023-20198                                                                                              |
 | https://github.com/IceBreakerCode/CVE-2023-20198                                                                                      |
-| https://github.com/sanjai-AK47/CVE-2023-20198                                                                                         |
+| https://github.com/RevoltSecurities/CVE-2023-20198                                                                                    |
 | https://github.com/smokeintheshell/CVE-2023-20198                                                                                     |
 | https://github.com/netbell/CVE-2023-20198-Fix                                                                                         |
 | https://github.com/Vulnmachines/Cisco_CVE-2023-20198                                                                                  |
@@ -9926,7 +9925,7 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/ForceFledgling/CVE-2023-22518                                                                                      |
 | https://github.com/davidfortytwo/CVE-2023-22518                                                                                       |
-| https://github.com/sanjai-AK47/CVE-2023-22518                                                                                         |
+| https://github.com/RevoltSecurities/CVE-2023-22518                                                                                    |
 | https://github.com/0x0d3ad/CVE-2023-22518                                                                                             |
 | https://github.com/C1ph3rX13/CVE-2023-22518                                                                                           |
 | https://github.com/bibo318/CVE-2023-22518                                                                                             |
@@ -9951,7 +9950,7 @@ Twitter @James12396379
 | https://github.com/C1ph3rX13/CVE-2023-22527                                                                                           |
 | https://github.com/Niuwoo/CVE-2023-22527                                                                                              |
 | https://github.com/Chocapikk/CVE-2023-22527                                                                                           |
-| https://github.com/sanjai-AK47/CVE-2023-22527                                                                                         |
+| https://github.com/RevoltSecurities/CVE-2023-22527                                                                                    |
 | https://github.com/yoryio/CVE-2023-22527                                                                                              |
 | https://github.com/Privia-Security/CVE-2023-22527                                                                                     |
 | https://github.com/MaanVader/CVE-2023-22527-POC                                                                                       |
@@ -10322,6 +10321,10 @@ Twitter @James12396379
 | CVE-2023-2579                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/0xn4d/poc-cve-xss-inventory-press-plugin                                                                           |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| CVE-2023-25813                                                                                                                        |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/bde574786/Sequelize-1day-CVE-2023-25813                                                                            |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-2591                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -10823,6 +10826,7 @@ Twitter @James12396379
 | https://github.com/prasad-1808/tool-29489                                                                                             |
 | https://github.com/mdaseem03/cpanel_xss_2023                                                                                          |
 | https://github.com/some-man1/CVE-2023-29489                                                                                           |
+| https://github.com/Cappricio-Securities/CVE-2023-29489                                                                                |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-2951                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -12648,6 +12652,7 @@ Twitter @James12396379
 | https://github.com/Zenmovie/CVE-2023-42793                                                                                            |
 | https://github.com/johnossawy/CVE-2023-42793_POC                                                                                      |
 | https://github.com/StanleyJobsonAU/GhostTown                                                                                          |
+| https://github.com/hotplugin0x01/CVE-2023-42793                                                                                       |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-4281                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -13233,7 +13238,7 @@ Twitter @James12396379
 | https://github.com/maniak-academy/Mitigate-CVE-2023-46747                                                                             |
 | https://github.com/y4v4z/CVE-2023-46747-POC                                                                                           |
 | https://github.com/nvansluis/test_cve-2023-46747                                                                                      |
-| https://github.com/sanjai-AK47/CVE-2023-46747                                                                                         |
+| https://github.com/RevoltSecurities/CVE-2023-46747                                                                                    |
 | https://github.com/vidura2/cve-2023-46747                                                                                             |
 | https://github.com/rainbowhatrkn/CVE-2023-46747-RCE                                                                                   |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -13635,7 +13640,7 @@ Twitter @James12396379
 | https://github.com/IceBreakerCode/CVE-2023-4966                                                                                       |
 | https://github.com/0xKayala/CVE-2023-4966                                                                                             |
 | https://github.com/certat/citrix-logchecker                                                                                           |
-| https://github.com/sanjai-AK47/CVE-2023-4966                                                                                          |
+| https://github.com/RevoltSecurities/CVE-2023-4966                                                                                     |
 | https://github.com/s-bt/CVE-2023-4966                                                                                                 |
 | https://github.com/byte4RR4Y/CVE-2023-4966                                                                                            |
 | https://github.com/jmussmann/cve-2023-4966-iocs                                                                                       |
@@ -14018,6 +14023,7 @@ Twitter @James12396379
 | https://github.com/miguelc49/CVE-2023-6019-2                                                                                          |
 | https://github.com/miguelc49/CVE-2023-6019-1                                                                                          |
 | https://github.com/miguelc49/CVE-2023-6019-3                                                                                          |
+| https://github.com/Clydeston/CVE-2023-6019                                                                                            |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-6036                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -17574,6 +17580,7 @@ Twitter @James12396379
 | https://github.com/lpn/CVE-2024-24576.jl                                                                                              |
 | https://github.com/p14t1num/cve-2024-24576-python                                                                                     |
 | https://github.com/Gaurav1020/CVE-2024-24576-PoC-Rust                                                                                 |
+| https://github.com/SheL3G/CVE-2024-24576-PoC-BatBadBut                                                                                |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2024-24760                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -18043,6 +18050,7 @@ Twitter @James12396379
 | https://github.com/pwnj0hn/CVE-2024-3400                                                                                              |
 | https://github.com/HackingLZ/panrapidcheck                                                                                            |
 | https://github.com/stronglier/CVE-2024-3400                                                                                           |
+| https://github.com/Kr0ff/cve-2024-3400                                                                                                |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2024-65230                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -18529,6 +18537,7 @@ Twitter @James12396379
 | CVE-2019-11395                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/RedAlien00/CVE-2019-11395                                                                                          |
+| https://github.com/caioprince/CVE-2019-11395                                                                                          |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2019-11408                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -23564,7 +23573,7 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/wildkindcc/CVE-2018-9276                                                                                           |
 | https://github.com/andyfeili/CVE-2018-9276                                                                                            |
-| https://github.com/A1vinSmith/CVE-2018-9276                                                                                           |
+| https://github.com/alvinsmith-eroad/CVE-2018-9276                                                                                     |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2018-9375                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
