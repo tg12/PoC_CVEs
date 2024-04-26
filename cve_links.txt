@@ -1,4 +1,4 @@
-Last updated: 2024-04-25 09:03
+Last updated: 2024-04-26 09:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -288,7 +288,6 @@ Twitter @James12396379
 | https://github.com/ajith737/Dirty-Pipe-CVE-2022-0847-POCs                                                                             |
 | https://github.com/mutur4/CVE-2022-0847                                                                                               |
 | https://github.com/orsuprasad/CVE-2022-0847-DirtyPipe-Exploits                                                                        |
-| https://github.com/nu1l-ptr/CVE-2022-0847-Poc                                                                                         |
 | https://github.com/JlSakuya/CVE-2022-0847-container-escape                                                                            |
 | https://github.com/jonathanbest7/cve-2022-0847                                                                                        |
 | https://github.com/0xeremus/dirty-pipe-poc                                                                                            |
@@ -9603,6 +9602,7 @@ Twitter @James12396379
 | https://github.com/smokeintheshell/CVE-2023-20198                                                                                     |
 | https://github.com/netbell/CVE-2023-20198-Fix                                                                                         |
 | https://github.com/Vulnmachines/Cisco_CVE-2023-20198                                                                                  |
+| https://github.com/W01fh4cker/CVE-2023-20198-RCE                                                                                      |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-20209                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -10122,7 +10122,7 @@ Twitter @James12396379
 | https://github.com/MrP4nda1337/CVE-2023-23752                                                                                         |
 | https://github.com/lainonz/CVE-2023-23752                                                                                             |
 | https://github.com/yTxZx/CVE-2023-23752                                                                                               |
-| https://github.com/AlissoftCodes/CVE-2023-23752                                                                                       |
+| https://github.com/AlissonFaoli/CVE-2023-23752                                                                                        |
 | https://github.com/Pushkarup/CVE-2023-23752                                                                                           |
 | https://github.com/cybernetwiz/CVE-2023-23752                                                                                         |
 | https://github.com/Youns92/Joomla-v4.2.8---CVE-2023-23752                                                                             |
@@ -12814,6 +12814,10 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/sromanhu/CVE-2023-43360-CMSmadesimple-Stored-XSS---File-Picker-extension                                           |
 +---------------------------------------------------------------------------------------------------------------------------------------+
+| CVE-2023-43364                                                                                                                        |
++---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/libertycityhacker/CVE-2023-43364-Exploit-CVE                                                                       |
++---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-43481                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/actuator/com.tcl.browser                                                                                           |
@@ -13771,6 +13775,7 @@ Twitter @James12396379
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2023-50164                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
+| https://github.com/minhbao15677/CVE-2023-50164                                                                                        |
 | https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE                                                                         |
 | https://github.com/bcdannyboy/CVE-2023-50164                                                                                          |
 | https://github.com/dwisiswant0/cve-2023-50164-poc                                                                                     |
@@ -16673,6 +16678,7 @@ Twitter @James12396379
 | https://github.com/fu2x2000/CVE-2017-7529-Nginx---Remote-Integer-Overflow-Exploit                                                     |
 | https://github.com/Shehzadcyber/CVE-2017-7529                                                                                         |
 | https://github.com/coolman6942o/-Exploit-CVE-2017-7529                                                                                |
+| https://github.com/SirEagIe/CVE-2017-7529                                                                                             |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2017-7648                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -18066,6 +18072,7 @@ Twitter @James12396379
 | https://github.com/Kr0ff/cve-2024-3400                                                                                                |
 | https://github.com/zam89/CVE-2024-3400-pot                                                                                            |
 | https://github.com/terminalJunki3/CVE-2024-3400-Checker                                                                               |
+| https://github.com/0xr2r/CVE-2024-3400-Palo-Alto-OS-Command-Injection                                                                 |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2024-4040                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -18074,6 +18081,7 @@ Twitter @James12396379
 | https://github.com/tucommenceapousser/CVE-2024-4040-Scanner                                                                           |
 | https://github.com/rbih-boulanouar/CVE-2024-4040                                                                                      |
 | https://github.com/Mufti22/CVE-2024-4040                                                                                              |
+| https://github.com/Stuub/CVE-2024-4040-SSTI-LFI                                                                                       |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2024-65230                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -19221,6 +19229,7 @@ Twitter @James12396379
 | https://github.com/gozn/detect-CVE-2019-15107-by-pyshark                                                                              |
 | https://github.com/h4ck0rman/CVE-2019-15107                                                                                           |
 | https://github.com/olingo99/CVE-2019-15107                                                                                            |
+| https://github.com/aamfrk/Webmin-CVE-2019-15107                                                                                       |
 | https://github.com/0x4r2/Webmin-CVE-2019-15107                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2019-15112                                                                                                                        |
@@ -21311,7 +21320,7 @@ Twitter @James12396379
 | https://github.com/0xTabun/CVE-2014-6271                                                                                              |
 | https://github.com/0xN7y/CVE-2014-6271                                                                                                |
 | https://github.com/MY7H404/CVE-2014-6271-Shellshock                                                                                   |
-| https://github.com/AlissoftCodes/Shellshock                                                                                           |
+| https://github.com/AlissonFaoli/Shellshock                                                                                            |
 | https://github.com/hackintoanetwork/shellshock                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2014-6287                                                                                                                         |
@@ -22633,6 +22642,7 @@ Twitter @James12396379
 | https://github.com/zeronohacker/CVE-2018-20250                                                                                        |
 | https://github.com/tzwlhack/CVE-2018-20250                                                                                            |
 | https://github.com/tannlh/CVE-2018-20250                                                                                              |
+| https://github.com/LamSonBinh/CVE-2018-20250                                                                                          |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2018-20343                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -22689,6 +22699,7 @@ Twitter @James12396379
 | https://github.com/hev0x/CVE-2018-25031-PoC                                                                                           |
 | https://github.com/ThiiagoEscobar/CVE-2018-25031                                                                                      |
 | https://github.com/johnlaurance/CVE-2018-25031-test2                                                                                  |
+| https://github.com/nullbyter19/CVE-2018-25031                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2018-25032                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
