@@ -1,4 +1,4 @@
-Last updated: 2024-07-26 09:03
+Last updated: 2024-07-27 09:03
 
 If you would like to support this project, please consider donating to the following addresses:
 
@@ -6626,6 +6626,7 @@ Twitter @James12396379
 | https://github.com/junnythemarksman/CVE-2021-31630                                                                                    |
 | https://github.com/adibabdala123/cve-2021-31630                                                                                       |
 | https://github.com/manuelsantosiglesias/CVE-2021-31630                                                                                |
+| https://github.com/FlojBoj/CVE-2021-31630                                                                                             |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-3164                                                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -9047,13 +9048,11 @@ Twitter @James12396379
 | https://github.com/Jun-5heng/CVE-2021-44228                                                                                           |
 | https://github.com/honypot/CVE-2021-44228                                                                                             |
 | https://github.com/honypot/CVE-2021-44228-vuln-app                                                                                    |
-| https://github.com/vulnerable-apps/log4shell-honeypot                                                                                 |
 | https://github.com/manishkanyal/log4j-scanner                                                                                         |
 | https://github.com/TPower2112/Writing-Sample-1                                                                                        |
 | https://github.com/Willian-2-0-0-1/Log4j-Exploit-CVE-2021-44228                                                                       |
 | https://github.com/r3kind1e/Log4Shell-obfuscated-payloads-generator                                                                   |
 | https://github.com/Phineas09/CVE-2021-44228                                                                                           |
-| https://github.com/hassaanahmad813/log4j                                                                                              |
 | https://github.com/yuuki1967/CVE-2021-44228-Apache-Log4j-Rce                                                                          |
 | https://github.com/moshuum/tf-log4j-aws-poc                                                                                           |
 | https://github.com/jaehnri/CVE-2021-44228                                                                                             |
@@ -9089,6 +9088,7 @@ Twitter @James12396379
 | https://github.com/YangHyperData/LOGJ4_PocShell_CVE-2021-44228                                                                        |
 | https://github.com/Hoanle396/CVE-2021-44228-demo                                                                                      |
 | https://github.com/tadash10/Exploiting-CVE-2021-44228-Log4Shell-in-a-Banking-Environment                                              |
+| https://github.com/asd58584388/CVE-2021-44228                                                                                         |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2021-44255                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -18316,7 +18316,7 @@ Twitter @James12396379
 | https://github.com/xffsec/CVE-2024-24590-ClearML-RCE-Exploit                                                                          |
 | https://github.com/diegogarciayala/CVE-2024-24590-ClearML-RCE-CMD-POC                                                                 |
 | https://github.com/junnythemarksman/CVE-2024-24590                                                                                    |
-| https://github.com/sviim/ClearML-CVE-2024-24590                                                                                       |
+| https://github.com/sviim/ClearML-CVE-2024-24590-RCE                                                                                   |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2024-24760                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -18379,6 +18379,7 @@ Twitter @James12396379
 | https://github.com/SalehLardhi/CVE-2024-24919                                                                                         |
 | https://github.com/ShadowByte1/CVE-2024-24919                                                                                         |
 | https://github.com/H3KEY/CVE-2024-24919                                                                                               |
+| https://github.com/Jutrm/cve-2024-24919                                                                                               |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2024-25092                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
@@ -19692,6 +19693,8 @@ Twitter @James12396379
 | CVE-2024-41110                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | https://github.com/vvpoglazov/cve-2024-41110-checker                                                                                  |
+| https://github.com/secsaburo/CVE-2024-41110-                                                                                          |
+| https://github.com/PauloParoPP/CVE-2024-41110-SCAN                                                                                    |
 +---------------------------------------------------------------------------------------------------------------------------------------+
 | CVE-2024-41662                                                                                                                        |
 +---------------------------------------------------------------------------------------------------------------------------------------+
